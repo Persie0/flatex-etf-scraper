@@ -1,0 +1,4965 @@
+[
+    {
+        "name": "Xtrackers S&P Select Frontier Swap UCITS ETF",
+        "ter": 0.95,
+        "number": "LU0328476410",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0328476410"
+    },
+    {
+        "name": "L&GE Fund MSCI China A UCITS ETF",
+        "ter": 0.88,
+        "number": "IE00BHBFDF83",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhbfdf83"
+    },
+    {
+        "name": "EMQQ Emerging Markets Internet & Ecommerce UCITS ETF",
+        "ter": 0.86,
+        "number": "IE00BFYN8Y92",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfyn8y92"
+    },
+    {
+        "name": "Xtrackers FTSE Vietnam Swap UCITS ETF",
+        "ter": 0.85,
+        "number": "LU0322252924",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0322252924"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor Pan Africa UCITS ETF",
+        "ter": 0.85,
+        "number": "LU1287022708",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1287022708"
+    },
+    {
+        "name": "Lyxor MSCI India UCITS ETF",
+        "ter": 0.85,
+        "number": "FR0010361683",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0010361683"
+    },
+    {
+        "name": "Xtrackers Nifty 50 Swap UCITS ETF",
+        "ter": 0.85,
+        "number": "LU0292109690",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292109690"
+    },
+    {
+        "name": "L&G ROBO Global Robotics and Automation UCITS ETF",
+        "ter": 0.8,
+        "number": "IE00BMW3QX54",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmw3qx54"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI India",
+        "ter": 0.8,
+        "number": "LU1681043086",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681043086"
+    },
+    {
+        "name": "The Medical Cannabis and Wellness UCITS ETF",
+        "ter": 0.8,
+        "number": "IE00BG5J1M21",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bg5j1m21"
+    },
+    {
+        "name": "FIRST TRUST GLOBAL FUNDS PLC - First Trust Global Capital Strength ESG Leaders UCITS ETF",
+        "ter": 0.75,
+        "number": "IE00BKPSPT20",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkpspt20"
+    },
+    {
+        "name": "Xtrackers MSCI India Swap UCITS ETF",
+        "ter": 0.75,
+        "number": "LU0514695187",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0514695187"
+    },
+    {
+        "name": "iShares V PLC - iShares MSCI Poland UCITS ETF",
+        "ter": 0.74,
+        "number": "IE00B4M7GH52",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b4m7gh52"
+    },
+    {
+        "name": "Xtrackers LPX Private Equity Swap UCITS ETF",
+        "ter": 0.7,
+        "number": "LU0322250712",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0322250712"
+    },
+    {
+        "name": "Xtrackers Portfolio UCITS ETF",
+        "ter": 0.7,
+        "number": "LU0397221945",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0397221945"
+    },
+    {
+        "name": "Grayscale Future of Finance UCITS ETF",
+        "ter": 0.7,
+        "number": "IE000TVPSRI1",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000tvpsri1"
+    },
+    {
+        "name": "L&G Cyber Security UCITS ETF",
+        "ter": 0.69,
+        "number": "IE00BYPLS672",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bypls672"
+    },
+    {
+        "name": "HANetf ICAV - Airlines, Hotels, Cruise Lines UCITS ETF",
+        "ter": 0.69,
+        "number": "IE00BMFNW783",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmfnw783"
+    },
+    {
+        "name": "HANetf ICAV - Solar Energy UCITS ETF",
+        "ter": 0.69,
+        "number": "IE00BMFNWC33",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmfnwc33"
+    },
+    {
+        "name": "HANetf ICAV - iClima Smart Energy UCITS ETF",
+        "ter": 0.69,
+        "number": "IE00BLCH4S17",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blch4s17"
+    },
+    {
+        "name": "Invesco Solar Energy UCITS ETF",
+        "ter": 0.69,
+        "number": "IE00BM8QRZ79",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bm8qrz79"
+    },
+    {
+        "name": "iShares MSCI India UCITS ETF",
+        "ter": 0.65,
+        "number": "IE00BZCQB185",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bzcqb185"
+    },
+    {
+        "name": "iShares VII PLC - iShares MSCI Korea UCITS ETF USD (Acc)",
+        "ter": 0.65,
+        "number": "IE00B5W4TY14",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5w4ty14"
+    },
+    {
+        "name": "iShares VII PLC - iShares MSCI Mexico Capped UCITS ETF",
+        "ter": 0.65,
+        "number": "IE00B5WHFQ43",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5whfq43"
+    },
+    {
+        "name": "iShares MSCI South Africa UCITS ETF",
+        "ter": 0.65,
+        "number": "IE00B52XQP83",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b52xqp83"
+    },
+    {
+        "name": "L&G Gold Mining UCITS ETF",
+        "ter": 0.65,
+        "number": "IE00B3CNHG25",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3cnhg25"
+    },
+    {
+        "name": "Xtrackers MSCI EM Europe, Middle East & Africa ESG Swap UCITS ETF",
+        "ter": 0.65,
+        "number": "LU0292109005",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292109005"
+    },
+    {
+        "name": "Xtrackers MSCI EM Latin America ESG Swap UCITS ETF",
+        "ter": 0.65,
+        "number": "LU0292108619",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292108619"
+    },
+    {
+        "name": "Xtrackers MSCI AC Asia ex Japan ESG Swap UCITS ETF",
+        "ter": 0.65,
+        "number": "LU0322252171",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0322252171"
+    },
+    {
+        "name": "First Trust Eurozone AlphaDEX UCITS ETF",
+        "ter": 0.65,
+        "number": "IE00B8X9NY41",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b8x9ny41"
+    },
+    {
+        "name": "First Trust US Large Cap Core AlphaDEX UCITS ETF",
+        "ter": 0.65,
+        "number": "IE00B8X9NW27",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b8x9nw27"
+    },
+    {
+        "name": "Global X Uranium UCITS ETF",
+        "ter": 0.65,
+        "number": "IE000NDWFGA5",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000ndwfga5"
+    },
+    {
+        "name": "Global X Copper Miners UCITS ETF",
+        "ter": 0.65,
+        "number": "IE0003Z9E2Y3",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie0003z9e2y3"
+    },
+    {
+        "name": "Market Access NYSE Arca Gold BUGS Index UCITS ETF",
+        "ter": 0.65,
+        "number": "LU0259322260",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0259322260"
+    },
+    {
+        "name": "Ossiam Europe ESG Machine Learning",
+        "ter": 0.65,
+        "number": "LU0599612842",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0599612842"
+    },
+    {
+        "name": "Ossiam Shiller Barclays Cape Europe Sector Value TR",
+        "ter": 0.65,
+        "number": "LU1079842321",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1079842321"
+    },
+    {
+        "name": "Ossiam Shiller Barclays Cape US Sector Value TR",
+        "ter": 0.65,
+        "number": "LU1079841273",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1079841273"
+    },
+    {
+        "name": "Rize UCITS ICAV - Rize Medical Cannabis and Life Sciences UCITS ETF",
+        "ter": 0.65,
+        "number": "IE00BJXRZ273",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjxrz273"
+    },
+    {
+        "name": "Lyxor MSCI China ESG Leaders Extra (DR) UCITS ETF",
+        "ter": 0.65,
+        "number": "LU1900068914",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1900068914"
+    },
+    {
+        "name": "Xtrackers MSCI China UCITS ETF",
+        "ter": 0.65,
+        "number": "LU0514695690",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0514695690"
+    },
+    {
+        "name": "Xtrackers MSCI EM Asia ESG Screened Swap UCITS ETF",
+        "ter": 0.65,
+        "number": "LU0292107991",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292107991"
+    },
+    {
+        "name": "HANetf - U.S. Global Jets UCITS ETF",
+        "ter": 0.65,
+        "number": "IE00BN76Y761",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bn76y761"
+    },
+    {
+        "name": "Electric Vehicle Charging Infrastructure UCITS ETF",
+        "ter": 0.65,
+        "number": "IE000HMSHYJ6",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000hmshyj6"
+    },
+    {
+        "name": "ETC Group Global Metaverse UCITS ETF",
+        "ter": 0.65,
+        "number": "IE000KDY10O3",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000kdy10o3"
+    },
+    {
+        "name": "iClima Global Decarbonisation Enablers ETF",
+        "ter": 0.65,
+        "number": "IE00BNC1F287",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bnc1f287"
+    },
+    {
+        "name": "Invesco CoinShares Global Blockchain UCITS ETF",
+        "ter": 0.65,
+        "number": "IE00BGBN6P67",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bgbn6p67"
+    },
+    {
+        "name": "VanEck Crypto & Blockchain Innovators UCITS ETF",
+        "ter": 0.65,
+        "number": "IE00BMDKNW35",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmdknw35"
+    },
+    {
+        "name": "iShares V PLC - iShares MSCI Japan EUR Hedged UCITS ETF (Acc)",
+        "ter": 0.64,
+        "number": "IE00B42Z5J44",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b42z5j44"
+    },
+    {
+        "name": "iShares Dow Jones Global Sustainability Screened UCITS ETF",
+        "ter": 0.6,
+        "number": "IE00B57X3V84",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b57x3v84"
+    },
+    {
+        "name": "iShares V PLC - iShares MSCI EM Consumer Growth UCITS ETF USD (Acc)",
+        "ter": 0.6,
+        "number": "IE00BKM4H197",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkm4h197"
+    },
+    {
+        "name": "L&G Global Thematic ESG Exclusions UCITS ETF",
+        "ter": 0.6,
+        "number": "IE000VTOHNZ0",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000vtohnz0"
+    },
+    {
+        "name": "ETC Group Digital Assets and Blockchain Equity UCITS ETF",
+        "ter": 0.6,
+        "number": "IE00BMQ8YK98",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmq8yk98"
+    },
+    {
+        "name": "First Trust Cloud Computing UCITS ETF",
+        "ter": 0.6,
+        "number": "IE00BFD2H405",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfd2h405"
+    },
+    {
+        "name": "First Trust Nasdaq Cybersecurity UCITS ETF",
+        "ter": 0.6,
+        "number": "IE00BF16M727",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf16m727"
+    },
+    {
+        "name": "First Trust Nasdaq Clean Edge Green Energy UCITS ETF",
+        "ter": 0.6,
+        "number": "IE00BDBRT036",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bdbrt036"
+    },
+    {
+        "name": "Global X FinTech UCITS ETF",
+        "ter": 0.6,
+        "number": "IE00BLCHJZ35",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blchjz35"
+    },
+    {
+        "name": "Global X Internet of Things UCITS ETF",
+        "ter": 0.6,
+        "number": "IE00BLCHJT74",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blchjt74"
+    },
+    {
+        "name": "Global X Lithium & Battery Tech UCITS ETF",
+        "ter": 0.6,
+        "number": "IE00BLCHJN13",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blchjn13"
+    },
+    {
+        "name": "Lyxor Nasdaq-100 Daily (2x) Leveraged UCITS ETF",
+        "ter": 0.6,
+        "number": "FR0010342592",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0010342592"
+    },
+    {
+        "name": "Lyxor S&P 500 VIX Futures Enhanced Roll UCITS ETF",
+        "ter": 0.6,
+        "number": "LU0832435464",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0832435464"
+    },
+    {
+        "name": "Lyxor Daily ShortDAX x2 UCITS ETF",
+        "ter": 0.6,
+        "number": "FR0010869495",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0010869495"
+    },
+    {
+        "name": "Lyxor Euro Stoxx 50 Daily (-2x) Inverse UCITS ETF",
+        "ter": 0.6,
+        "number": "FR0010424143",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0010424143"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor MSCI AC Asia Pacific Ex Japan UCITS ETF",
+        "ter": 0.6,
+        "number": "LU1900068328",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1900068328"
+    },
+    {
+        "name": "Xtrackers S&P Global Infrastructure Swap UCITS ETF",
+        "ter": 0.6,
+        "number": "LU0322253229",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0322253229"
+    },
+    {
+        "name": "Invesco Markets II plc - Invesco Global Clean Energy UCITS ETF",
+        "ter": 0.6,
+        "number": "IE00BLRB0242",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blrb0242"
+    },
+    {
+        "name": "VanEck Rare Earth and Strategic Metals UCITS ETF",
+        "ter": 0.59,
+        "number": "IE0002PG6CA6",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie0002pg6ca6"
+    },
+    {
+        "name": "iShares VII PLC - iShares MSCI EMU Small Cap UCITS ETF EUR (Acc)",
+        "ter": 0.58,
+        "number": "IE00B3VWMM18",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3vwmm18"
+    },
+    {
+        "name": "iShares VII PLC - iShares MSCI UK Small Cap UCITS ETF GBP (Acc)",
+        "ter": 0.58,
+        "number": "IE00B3VWLG82",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3vwlg82"
+    },
+    {
+        "name": "iShares Edge MSCI World Multifactor UCITS ETF",
+        "ter": 0.55,
+        "number": "IE00BYXPXK00",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byxpxk00"
+    },
+    {
+        "name": "iShares V PLC - iShares Gold Producers UCITS ETF USD (Acc)",
+        "ter": 0.55,
+        "number": "IE00B6R52036",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b6r52036"
+    },
+    {
+        "name": "iShares V PLC - iShares MSCI World EUR Hedged UCITS ETF (Acc)",
+        "ter": 0.55,
+        "number": "IE00B441G979",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b441g979"
+    },
+    {
+        "name": "iShares V PLC - iShares Oil & Gas Exploration & Production UCITS ETF USD (Acc)",
+        "ter": 0.55,
+        "number": "IE00B6R51Z18",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b6r51z18"
+    },
+    {
+        "name": "SPDRMSCI EM Asia UCITS ETF",
+        "ter": 0.55,
+        "number": "IE00B466KX20",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b466kx20"
+    },
+    {
+        "name": "SPDRMSCI Emerging Markets Small Cap UCITS ETF",
+        "ter": 0.55,
+        "number": "IE00B48X4842",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b48x4842"
+    },
+    {
+        "name": "Global X Cloud Computing UCITS ETF",
+        "ter": 0.55,
+        "number": "IE00BMH5YF48",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmh5yf48"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI China",
+        "ter": 0.55,
+        "number": "LU1681043912",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681043912"
+    },
+    {
+        "name": "Rize Environmental Impact 100 UCITS ETF",
+        "ter": 0.55,
+        "number": "IE00BLRPRR04",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blrprr04"
+    },
+    {
+        "name": "Rize Emerging Market Internet and Ecommerce UCITS ETF",
+        "ter": 0.55,
+        "number": "IE000HJV1VH3",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000hjv1vh3"
+    },
+    {
+        "name": "SPDR Bloomberg Emerging Markets Local Bond USD Base CCY Hdg to EUR UCITS ETF Acc",
+        "ter": 0.55,
+        "number": "IE00BFWFPY67",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfwfpy67"
+    },
+    {
+        "name": "Lyxor MSCI Emerging Markets UCITS ETF",
+        "ter": 0.55,
+        "number": "FR0010429068",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0010429068"
+    },
+    {
+        "name": "iShares V PLC - iShares Agribusiness UCITS ETF USD (Acc)",
+        "ter": 0.55,
+        "number": "IE00B6R52143",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b6r52143"
+    },
+    {
+        "name": "VanEck Junior Gold Miners UCITS ETF",
+        "ter": 0.55,
+        "number": "IE00BQQP9G91",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bqqp9g91"
+    },
+    {
+        "name": "VanEck Hydrogen Economy UCITS ETF",
+        "ter": 0.55,
+        "number": "IE00BMDH1538",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmdh1538"
+    },
+    {
+        "name": "VanEck Video Gaming and eSports UCITS ETF",
+        "ter": 0.55,
+        "number": "IE00BYWQWR46",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bywqwr46"
+    },
+    {
+        "name": "iShares V PLC - iShares J.P. Morgan $ EM Corp Bond UCITS ETF",
+        "ter": 0.53,
+        "number": "IE00BKT1CS59",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkt1cs59"
+    },
+    {
+        "name": "VanEck Gold Miners UCITS ETF",
+        "ter": 0.53,
+        "number": "IE00BQQP9F84",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bqqp9f84"
+    },
+    {
+        "name": "VanEck Morningstar Global Wide Moat UCITS ETF",
+        "ter": 0.52,
+        "number": "IE00BL0BMZ89",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bl0bmz89"
+    },
+    {
+        "name": "iShares MDAX UCITS ETF (DE)",
+        "ter": 0.51,
+        "number": "DE0005933923",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/de0005933923"
+    },
+    {
+        "name": "iShares TecDAX UCITS ETF (DE)",
+        "ter": 0.51,
+        "number": "DE0005933972",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/de0005933972"
+    },
+    {
+        "name": "iShares Edge MSCI World Multifactor UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BZ0PKT83",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bz0pkt83"
+    },
+    {
+        "name": "iShares J.P. Morgan $ EM Bond UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BJ5JPH63",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bj5jph63"
+    },
+    {
+        "name": "iShares MSCI Australia UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00B5377D42",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5377d42"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  J.P. Morgan USD EM IG ESG Diversified Bond UCITS ETF",
+        "ter": 0.5,
+        "number": "LU1974696418",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1974696418"
+    },
+    {
+        "name": "Xtrackers CSI300 Swap UCITS ETF",
+        "ter": 0.5,
+        "number": "LU0779800910",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0779800910"
+    },
+    {
+        "name": "Fidelity Clean Energy UCITS ETF",
+        "ter": 0.5,
+        "number": "IE0002MXIF34",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie0002mxif34"
+    },
+    {
+        "name": "Fidelity Cloud Computing UCITS ETF",
+        "ter": 0.5,
+        "number": "IE000M0ZXLY9",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000m0zxly9"
+    },
+    {
+        "name": "Fidelity Digital Health UCITS ETF",
+        "ter": 0.5,
+        "number": "IE000BPQIAA3",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000bpqiaa3"
+    },
+    {
+        "name": "Fidelity Emerging Markets Quality Income UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BYSX4846",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bysx4846"
+    },
+    {
+        "name": "Fidelity Sustainable Research Enhanced Emerging Markets Equity UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BLRPN388",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blrpn388"
+    },
+    {
+        "name": "Fidelity Electric Vehicles and Future Transportation UCITS ETF",
+        "ter": 0.5,
+        "number": "IE0009MG7KH8",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie0009mg7kh8"
+    },
+    {
+        "name": "Fidelity Metaverse UCITS ETF",
+        "ter": 0.5,
+        "number": "IE000TLLSP66",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000tllsp66"
+    },
+    {
+        "name": "Global X AgTech & Food Innovation UCITS ETF",
+        "ter": 0.5,
+        "number": "IE000EBFYWX3",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000ebfywx3"
+    },
+    {
+        "name": "Global X Autonomous & Electric Vehicles UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BMH5YR69",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmh5yr69"
+    },
+    {
+        "name": "Global X Clean Water UCITS ETF",
+        "ter": 0.5,
+        "number": "IE000BWKUES1",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000bwkues1"
+    },
+    {
+        "name": "Global X CleanTech UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BMH5YL08",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmh5yl08"
+    },
+    {
+        "name": "Global X Cybersecurity UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BMH5Y871",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmh5y871"
+    },
+    {
+        "name": "Global X Data Center REITs & Digital Infrastructure UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BMH5Y327",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmh5y327"
+    },
+    {
+        "name": "Global X E-commerce UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BMH5XY61",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmh5xy61"
+    },
+    {
+        "name": "Global X Genomics & Biotechnology UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BM8R0N95",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bm8r0n95"
+    },
+    {
+        "name": "Global X Renewable Energy Producers UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BLCHJH52",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blchjh52"
+    },
+    {
+        "name": "Global X Robotics & Artificial Intelligence UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BLCHJB90",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blchjb90"
+    },
+    {
+        "name": "Lyxor MSCI Eastern Europe ex Russia UCITS ETF",
+        "ter": 0.5,
+        "number": "LU1900066462",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1900066462"
+    },
+    {
+        "name": "HSBC Hang Seng Tech UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BMWXKN31",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmwxkn31"
+    },
+    {
+        "name": "Invesco Morningstar US Energy Infrastructure MLP UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00B94ZB998",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b94zb998"
+    },
+    {
+        "name": "VanEck Global Mining UCITS ETF",
+        "ter": 0.5,
+        "number": "IE00BDFBTQ78",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bdfbtq78"
+    },
+    {
+        "name": "iShares MSCI EMU Large Cap UCITS ETF",
+        "ter": 0.49,
+        "number": "IE00BCLWRF22",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bclwrf22"
+    },
+    {
+        "name": "iShares MSCI EMU Mid Cap UCITS ETF",
+        "ter": 0.49,
+        "number": "IE00BCLWRD08",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bclwrd08"
+    },
+    {
+        "name": "L&G Artificial Intelligence UCITS ETF",
+        "ter": 0.49,
+        "number": "IE00BK5BCD43",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk5bcd43"
+    },
+    {
+        "name": "L&G Battery Value-Chain UCITS ETF",
+        "ter": 0.49,
+        "number": "IE00BF0M2Z96",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf0m2z96"
+    },
+    {
+        "name": "L&G Clean Energy UCITS ETF",
+        "ter": 0.49,
+        "number": "IE00BK5BCH80",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk5bch80"
+    },
+    {
+        "name": "L&G Clean Water UCITS ETF",
+        "ter": 0.49,
+        "number": "IE00BK5BC891",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk5bc891"
+    },
+    {
+        "name": "Legal & General UCITS ETF Plc - L&G Digital Payments UCITS ETF",
+        "ter": 0.49,
+        "number": "IE00BF92J153",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf92j153"
+    },
+    {
+        "name": "L&G Ecommerce Logistics UCITS ETF",
+        "ter": 0.49,
+        "number": "IE00BF0M6N54",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf0m6n54"
+    },
+    {
+        "name": "L&G Healthcare Breakthrough UCITS ETF",
+        "ter": 0.49,
+        "number": "IE00BK5BC677",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk5bc677"
+    },
+    {
+        "name": "L&G Hydrogen Economy UCITS ETF",
+        "ter": 0.49,
+        "number": "IE00BMYDM794",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmydm794"
+    },
+    {
+        "name": "L&G Pharma Breakthrough UCITS ETF",
+        "ter": 0.49,
+        "number": "IE00BF0H7608",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf0h7608"
+    },
+    {
+        "name": "L&G Emerging Cyber Security ESG Exclusions UCITS ETF",
+        "ter": 0.49,
+        "number": "IE000ST40PX8",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000st40px8"
+    },
+    {
+        "name": "L&G Optical Technology & Photonics ESG Exclusions UCITS ETF",
+        "ter": 0.49,
+        "number": "IE000QNJAOX1",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000qnjaox1"
+    },
+    {
+        "name": "Xtrackers MSCI Emerging Markets Swap UCITS ETF",
+        "ter": 0.49,
+        "number": "LU0292107645",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292107645"
+    },
+    {
+        "name": "Invesco KBW NASDAQ Fintech UCITS ETF",
+        "ter": 0.49,
+        "number": "IE00BYMS5W68",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byms5w68"
+    },
+    {
+        "name": "VanEck Morningstar US Sustainable Wide Moat UCITS ETF",
+        "ter": 0.49,
+        "number": "IE00BQQP9H09",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bqqp9h09"
+    },
+    {
+        "name": "iShares VII PLC - iShares MSCI Canada UCITS ETF",
+        "ter": 0.48,
+        "number": "IE00B52SF786",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b52sf786"
+    },
+    {
+        "name": "iShares VII PLC - iShares MSCI Japan UCITS ETF USD (Acc)",
+        "ter": 0.48,
+        "number": "IE00B53QDK08",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b53qdk08"
+    },
+    {
+        "name": "iShares VII PLC - iShares Nikkei 225 UCITS ETF JPY (Acc)",
+        "ter": 0.48,
+        "number": "IE00B52MJD48",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b52mjd48"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Japan Topix",
+        "ter": 0.48,
+        "number": "LU1681037864",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681037864"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  Bloomberg USD Emerging Markets Sovereign UCITS ETF",
+        "ter": 0.47,
+        "number": "LU1324516308",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1324516308"
+    },
+    {
+        "name": "Global X U.S. Infrastructure Development UCITS ETF",
+        "ter": 0.47,
+        "number": "IE00BLCHJ534",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blchj534"
+    },
+    {
+        "name": "UBS ETF - Solactive China Technology UCITS ETF",
+        "ter": 0.47,
+        "number": "LU2265794276",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2265794276"
+    },
+    {
+        "name": "WisdomTree Emerging Markets Equity Income UCITS ETF",
+        "ter": 0.46,
+        "number": "IE00BDF12W49",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bdf12w49"
+    },
+    {
+        "name": "iShares Edge MSCI Europe Multifactor UCITS ETF",
+        "ter": 0.45,
+        "number": "IE00BZ0PKV06",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bz0pkv06"
+    },
+    {
+        "name": "iShares J.P. Morgan $ EM Bond UCITS ETF",
+        "ter": 0.45,
+        "number": "IE00BYXYYK40",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byxyyk40"
+    },
+    {
+        "name": "SPDRMSCI ACWI UCITS ETF",
+        "ter": 0.45,
+        "number": "IE00BF1B7389",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf1b7389"
+    },
+    {
+        "name": "SPDR MSCI World Small Cap UCITS ETF",
+        "ter": 0.45,
+        "number": "IE00BCBJG560",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bcbjg560"
+    },
+    {
+        "name": "WisdomTree BioRevolution UCITS ETF",
+        "ter": 0.45,
+        "number": "IE000O8KMPM1",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000o8kmpm1"
+    },
+    {
+        "name": "WisdomTree Cybersecurity UCITS ETF",
+        "ter": 0.45,
+        "number": "IE00BLPK3577",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blpk3577"
+    },
+    {
+        "name": "WisdomTree Japan Equity UCITS ETF",
+        "ter": 0.45,
+        "number": "IE00BYQCZJ13",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byqczj13"
+    },
+    {
+        "name": "WisdomTree New Economy Real Estate UCITS ETF",
+        "ter": 0.45,
+        "number": "IE000MO2MB07",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000mo2mb07"
+    },
+    {
+        "name": "WisdomTree Blockchain UCITS ETF",
+        "ter": 0.45,
+        "number": "IE000940RNE6",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000940rne6"
+    },
+    {
+        "name": "Franklin Emerging Markets UCITS ETF",
+        "ter": 0.45,
+        "number": "IE00BF2B0K52",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf2b0k52"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Index MSCI Japan",
+        "ter": 0.45,
+        "number": "LU1602144732",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1602144732"
+    },
+    {
+        "name": "Amundi IndEX Solutions - Amundi IndEX MSCI Pacific EX Japan SRI PAB Fund",
+        "ter": 0.45,
+        "number": "LU1602144906",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1602144906"
+    },
+    {
+        "name": "Rize Pet Care UCITS ETF",
+        "ter": 0.45,
+        "number": "IE000QRNAC66",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000qrnac66"
+    },
+    {
+        "name": "Rize UCITS ICAV - Rize Cybersecurity Data Privacy UCITS ETF",
+        "ter": 0.45,
+        "number": "IE00BJXRZJ40",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjxrzj40"
+    },
+    {
+        "name": "Rize Digital Payments Economy UCITS ETF",
+        "ter": 0.45,
+        "number": "IE00BLRPRQ96",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blrprq96"
+    },
+    {
+        "name": "Rize Education Tech and Digital Learning UCITS ETF",
+        "ter": 0.45,
+        "number": "IE00BLRPQJ54",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blrpqj54"
+    },
+    {
+        "name": "Rize Sustainable Future of Food UCITS ETF",
+        "ter": 0.45,
+        "number": "IE00BLRPQH31",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blrpqh31"
+    },
+    {
+        "name": "Lyxor Msci All Country World Ucits ETF",
+        "ter": 0.45,
+        "number": "LU1829220216",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1829220216"
+    },
+    {
+        "name": "Lyxor Index Fund - Lyxor MSCI Digital Economy ESG Filtered (DR) UCITS ETF",
+        "ter": 0.45,
+        "number": "LU2023678878",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2023678878"
+    },
+    {
+        "name": "Lyxor Index Fund - Lyxor MSCI Disruptive Technology ESG Filtered (DR) UCITS ETF",
+        "ter": 0.45,
+        "number": "LU2023678282",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2023678282"
+    },
+    {
+        "name": "Lyxor Index Fund - Lyxor MSCI Future Mobility ESG Filtered (DR) UCITS ETF",
+        "ter": 0.45,
+        "number": "LU2023679090",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2023679090"
+    },
+    {
+        "name": "Lyxor MSCI Indonesia UCITS ETF",
+        "ter": 0.45,
+        "number": "LU1900065811",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1900065811"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor MSCI Korea UCITS ETF",
+        "ter": 0.45,
+        "number": "LU1900066975",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1900066975"
+    },
+    {
+        "name": "Lyxor Index Fund - Lyxor MSCI Millennials ESG Filtered (DR) UCITS ETF",
+        "ter": 0.45,
+        "number": "LU2023678449",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2023678449"
+    },
+    {
+        "name": "Lyxor Index Fund - Lyxor MSCI Smart Cities ESG Filtered (DR) UCITS ETF",
+        "ter": 0.45,
+        "number": "LU2023679256",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2023679256"
+    },
+    {
+        "name": "Lyxor MSCI Turkey UCITS ETF",
+        "ter": 0.45,
+        "number": "LU1900067601",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1900067601"
+    },
+    {
+        "name": "Xtrackers MSCI World Swap UCITS ETF",
+        "ter": 0.45,
+        "number": "LU0274208692",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0274208692"
+    },
+    {
+        "name": "HSBC MSCI AC FAR EAST ex JAPAN UCITS ETF",
+        "ter": 0.45,
+        "number": "IE00BBQ2W338",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bbq2w338"
+    },
+    {
+        "name": "WisdomTree Recycling Decarbonisation UCITS ETF",
+        "ter": 0.45,
+        "number": "IE000LG4J7E7",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000lg4j7e7"
+    },
+    {
+        "name": "iShares VII PLC - iShares MSCI USA Small Cap ESG Enhanced UCITS ETF USD (Acc)",
+        "ter": 0.43,
+        "number": "IE00B3VWM098",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3vwm098"
+    },
+    {
+        "name": "iShares Edge MSCI EM Minimum Volatility UCITS ETF USD (Acc)",
+        "ter": 0.4,
+        "number": "IE00B8KGV557",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b8kgv557"
+    },
+    {
+        "name": "iShares Electric Vehicles and Driving Technology UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BGL86Z12",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bgl86z12"
+    },
+    {
+        "name": "iShares European Property Yield UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BGDQ0L74",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bgdq0l74"
+    },
+    {
+        "name": "iShares Healthcare Innovation UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BYZK4776",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byzk4776"
+    },
+    {
+        "name": "iShares MSCI China A UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BQT3WG13",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bqt3wg13"
+    },
+    {
+        "name": "SPDR MSCI ACWI IMI UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00B3YLTY66",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3ylty66"
+    },
+    {
+        "name": "WisdomTree Artificial Intelligence UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BDVPNG13",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bdvpng13"
+    },
+    {
+        "name": "WisdomTree Battery Solutions UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BKLF1R75",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bklf1r75"
+    },
+    {
+        "name": "WisdomTree Cloud Computing UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BJGWQN72",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjgwqn72"
+    },
+    {
+        "name": "WisdomTree Japan Equity UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BYQCZN58",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byqczn58"
+    },
+    {
+        "name": "Xtrackers II USD Emerging Markets Bond UCITS ETF",
+        "ter": 0.4,
+        "number": "LU0321462953",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0321462953"
+    },
+    {
+        "name": "BNP Paribas Easy FTSE EPRA/NAREIT Eurozone Capped",
+        "ter": 0.4,
+        "number": "LU0950381748",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0950381748"
+    },
+    {
+        "name": "Franklin AC Asia ex Japan UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BFWXDV39",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfwxdv39"
+    },
+    {
+        "name": "Franklin Global Equity SRI UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BF2B0N83",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf2b0n83"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Index Equity Global Multi Smart Allocation Scientific Beta",
+        "ter": 0.4,
+        "number": "LU1602145119",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1602145119"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi EURO High Yield Bond ESG",
+        "ter": 0.4,
+        "number": "LU1681040496",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681040496"
+    },
+    {
+        "name": "BNP Paribas Easy FTSE EPRA Nareit Developed Europe ex UK Green CTB",
+        "ter": 0.4,
+        "number": "LU2008763935",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2008763935"
+    },
+    {
+        "name": "SPDRDow Jones Global Real Estate UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BH4GR342",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bh4gr342"
+    },
+    {
+        "name": "SPDRMSCI ACWI UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00B44Z5B48",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b44z5b48"
+    },
+    {
+        "name": "Lyxor Euro Stoxx 50 Daily (-1x) Inverse UCITS ETF",
+        "ter": 0.4,
+        "number": "FR0010424135",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0010424135"
+    },
+    {
+        "name": "Lyxor MSCI Robotics & AI ESG Filtered UCITS ETF",
+        "ter": 0.4,
+        "number": "LU1838002480",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1838002480"
+    },
+    {
+        "name": "iShares Ageing Population UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BYZK4669",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byzk4669"
+    },
+    {
+        "name": "iShares Automation & Robotics UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BYZK4552",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byzk4552"
+    },
+    {
+        "name": "iShares Digital Security UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BG0J4C88",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bg0j4c88"
+    },
+    {
+        "name": "iShares Digitalisation UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BYZK4883",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byzk4883"
+    },
+    {
+        "name": "Xtrackers MSCI Japan UCITS ETF",
+        "ter": 0.4,
+        "number": "LU0659580079",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0659580079"
+    },
+    {
+        "name": "Invesco NASDAQ Biotech UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BQ70R696",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bq70r696"
+    },
+    {
+        "name": "VanEck Emerging Markets High Yield Bond UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BF541080",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf541080"
+    },
+    {
+        "name": "VanEck Global Fallen Angel High Yield Bond UCITS ETF",
+        "ter": 0.4,
+        "number": "IE00BF540Z61",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf540z61"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - USD Emerging Markets Sovereign Bond UCITS ETF",
+        "ter": 0.39,
+        "number": "IE00BDDRDY39",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bddrdy39"
+    },
+    {
+        "name": "L&G Metaverse ESG Exclusions UCITS ETF",
+        "ter": 0.39,
+        "number": "IE0004U3TX15",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie0004u3tx15"
+    },
+    {
+        "name": "Xtrackers Bloomberg Commodity ex-Agriculture & Livestock Swap UCITS ETF",
+        "ter": 0.39,
+        "number": "LU0292106167",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292106167"
+    },
+    {
+        "name": "Xtrackers MSCI North America High Dividend Yield UCITS ETF",
+        "ter": 0.39,
+        "number": "IE00BH361H73",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bh361h73"
+    },
+    {
+        "name": "Xtrackers MSCI World Swap UCITS ETF",
+        "ter": 0.39,
+        "number": "LU0659579733",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0659579733"
+    },
+    {
+        "name": "WisdomTree Europe SmallCap Dividend UCITS ETF",
+        "ter": 0.38,
+        "number": "IE00BDF16114",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bdf16114"
+    },
+    {
+        "name": "WisdomTree Global Quality Dividend Growth UCITS ETF",
+        "ter": 0.38,
+        "number": "IE00BZ56SW52",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bz56sw52"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI World UCITS ETF",
+        "ter": 0.38,
+        "number": "LU1681043599",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681043599"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  MSCI Pacific Socially Responsible UCITS ETF",
+        "ter": 0.37,
+        "number": "LU0950674928",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0950674928"
+    },
+    {
+        "name": "iShares VII PLC - iShares NASDAQ 100 UCITS ETF",
+        "ter": 0.36,
+        "number": "IE00BYVQ9F29",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byvq9f29"
+    },
+    {
+        "name": "iShares Edge MSCI USA Multifactor UCITS ETF",
+        "ter": 0.35,
+        "number": "IE00BZ0PKS76",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bz0pks76"
+    },
+    {
+        "name": "iShares Edge MSCI World Minimum Volatility UCITS ETF",
+        "ter": 0.35,
+        "number": "IE00BYXPXL17",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byxpxl17"
+    },
+    {
+        "name": "iShares MSCI Global Semiconductors UCITS ETF",
+        "ter": 0.35,
+        "number": "IE000I8KRLL9",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000i8krll9"
+    },
+    {
+        "name": "iShares MSCI World Small Cap UCITS ETF",
+        "ter": 0.35,
+        "number": "IE00BF4RFH31",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf4rfh31"
+    },
+    {
+        "name": "iShares Nasdaq US Biotechnology UCITS ETF",
+        "ter": 0.35,
+        "number": "IE00BYXG2H39",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byxg2h39"
+    },
+    {
+        "name": "iShares V PLC - iShares S&P U.S. Banks UCITS ETF",
+        "ter": 0.35,
+        "number": "IE00BD3V0B10",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd3v0b10"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor Commodities Refinitiv/CoreCommodity CRB TR UCITS ETF",
+        "ter": 0.35,
+        "number": "LU1829218749",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1829218749"
+    },
+    {
+        "name": "SPDR S&P 500 Low Volatility UCITS ETF",
+        "ter": 0.35,
+        "number": "IE00B802KR88",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b802kr88"
+    },
+    {
+        "name": "WisdomTree US Equity Income UCITS ETF",
+        "ter": 0.35,
+        "number": "IE00BD6RZW23",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd6rzw23"
+    },
+    {
+        "name": "Xtrackers Artificial Intelligence & Big Data UCITS ETF",
+        "ter": 0.35,
+        "number": "IE00BGV5VN51",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bgv5vn51"
+    },
+    {
+        "name": "Xtrackers Future Mobility UCITS ETF",
+        "ter": 0.35,
+        "number": "IE00BGV5VR99",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bgv5vr99"
+    },
+    {
+        "name": "Fidelity Sustainable Research Enhanced Global Equity UCITS ETF",
+        "ter": 0.35,
+        "number": "IE00BKSBGV72",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bksbgv72"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Smart City ETF",
+        "ter": 0.35,
+        "number": "LU2037748345",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2037748345"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Smart Factory ETF",
+        "ter": 0.35,
+        "number": "LU2037749822",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2037749822"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi FTSE EPRA Europe Real Estate",
+        "ter": 0.35,
+        "number": "LU1681039480",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681039480"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI World Energy",
+        "ter": 0.35,
+        "number": "LU1681046006",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681046006"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI World Ex Europe",
+        "ter": 0.35,
+        "number": "LU1681045537",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681045537"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Nasdaq-100",
+        "ter": 0.35,
+        "number": "LU1681038599",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681038599"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Russell 2000",
+        "ter": 0.35,
+        "number": "LU1681038672",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681038672"
+    },
+    {
+        "name": "Amundi Stoxx Global Artificial Intelligence",
+        "ter": 0.35,
+        "number": "LU1861132840",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1861132840"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor DAILY LevDAX UCITS ETF",
+        "ter": 0.35,
+        "number": "LU0252634307",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0252634307"
+    },
+    {
+        "name": "Lyxor MSCI China A (DR) UCITS ETF",
+        "ter": 0.35,
+        "number": "FR0011720911",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0011720911"
+    },
+    {
+        "name": "Xtrackers MSCI Canada ESG Screened UCITS ETF",
+        "ter": 0.35,
+        "number": "LU0476289540",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0476289540"
+    },
+    {
+        "name": "Xtrackers MSCI Innovation UCITS ETF",
+        "ter": 0.35,
+        "number": "IE0006FFX5U1",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie0006ffx5u1"
+    },
+    {
+        "name": "HSBC NASDAQ Global Semiconductor UCITS ETF",
+        "ter": 0.35,
+        "number": "IE000YDZG487",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000ydzg487"
+    },
+    {
+        "name": "HSBC World ESG Biodiversity Screened Equity UCITS ETF",
+        "ter": 0.35,
+        "number": "IE0002UTLE51",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie0002utle51"
+    },
+    {
+        "name": "Invesco MSCI Europe Value UCITS ETF",
+        "ter": 0.35,
+        "number": "IE00B3LK4Z20",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3lk4z20"
+    },
+    {
+        "name": "VanEck Semiconductor UCITS ETF",
+        "ter": 0.35,
+        "number": "IE00BMC38736",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmc38736"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  MSCI EMU Select Factor Mix UCITS ETF",
+        "ter": 0.34,
+        "number": "LU1804202403",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1804202403"
+    },
+    {
+        "name": "iShares VII PLC - iShares Dow Jones Industrial Average UCITS ETF",
+        "ter": 0.33,
+        "number": "IE00B53L4350",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b53l4350"
+    },
+    {
+        "name": "iShares VII PLC - iShares FTSE MIB UCITS ETF EUR (Acc)",
+        "ter": 0.33,
+        "number": "IE00B53L4X51",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b53l4x51"
+    },
+    {
+        "name": "iShares VII PLC - iShares MSCI UK UCITS ETF GBP (Acc)",
+        "ter": 0.33,
+        "number": "IE00B539F030",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b539f030"
+    },
+    {
+        "name": "iShares VII PLC - iShares NASDAQ 100 UCITS ETF",
+        "ter": 0.33,
+        "number": "IE00B53SZB19",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b53szb19"
+    },
+    {
+        "name": "WisdomTree US Quality Dividend Growth UCITS ETF",
+        "ter": 0.33,
+        "number": "IE00BZ56RG20",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bz56rg20"
+    },
+    {
+        "name": "Xtrackers FTSE Developed Europe Real Estate UCITS ETF",
+        "ter": 0.33,
+        "number": "LU0489337690",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0489337690"
+    },
+    {
+        "name": "UBS (Irl) ETF plc - MSCI ACWI Socially Responsible UCITS ETF",
+        "ter": 0.33,
+        "number": "IE00BDR55927",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bdr55927"
+    },
+    {
+        "name": "WisdomTree Europe Equity UCITS ETF",
+        "ter": 0.32,
+        "number": "IE00BYQCZX56",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byqczx56"
+    },
+    {
+        "name": "iShares Edge MSCI World Minimum Volatility UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00B8FHGS14",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b8fhgs14"
+    },
+    {
+        "name": "iShares Edge MSCI World Momentum Factor UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BP3QZ825",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bp3qz825"
+    },
+    {
+        "name": "iShares Edge MSCI World Quality Factor UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BP3QZ601",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bp3qz601"
+    },
+    {
+        "name": "iShares Edge MSCI World Size Factor UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BP3QZD73",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bp3qzd73"
+    },
+    {
+        "name": "iShares Edge MSCI World Value Factor UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BP3QZB59",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bp3qzb59"
+    },
+    {
+        "name": "iShares Edge MSCI World Minimum Volatility ESG UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BKVL7778",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkvl7778"
+    },
+    {
+        "name": "iShares MSCI World Momentum Factor ESG UCITS ETF",
+        "ter": 0.3,
+        "number": "IE000L5NW549",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000l5nw549"
+    },
+    {
+        "name": "iShares MSCI World Value Factor ESG UCITS ETF",
+        "ter": 0.3,
+        "number": "IE000H1H16W5",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000h1h16w5"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - Global Emerging Markets Research Enhanced Index Equity(ESG) UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BF4G6Z54",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf4g6z54"
+    },
+    {
+        "name": "L&G Russell 2000 US Small Cap UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00B3CNHJ55",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3cnhj55"
+    },
+    {
+        "name": "SPDR MSCI Europe Small Cap Value Weighted UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BSPLC298",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bsplc298"
+    },
+    {
+        "name": "SPDR MSCI Europe Small Cap UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BKWQ0M75",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkwq0m75"
+    },
+    {
+        "name": "SPDR MSCI USA Small Cap Value Weighted UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BSPLC413",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bsplc413"
+    },
+    {
+        "name": "SPDR Russell 2000 US Small Cap UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BJ38QD84",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bj38qd84"
+    },
+    {
+        "name": "SPDR S&P 400 US Mid Cap UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00B4YBJ215",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b4ybj215"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  MSCI United Kingdom UCITS ETF",
+        "ter": 0.3,
+        "number": "LU1169821292",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1169821292"
+    },
+    {
+        "name": "BNP Paribas Easy Low Carbon 100 Europe PAB",
+        "ter": 0.3,
+        "number": "LU1377382368",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1377382368"
+    },
+    {
+        "name": "Deka MDAX UCITS ETF",
+        "ter": 0.3,
+        "number": "DE000ETFL441",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/de000etfl441"
+    },
+    {
+        "name": "Fidelity Europe Quality Income UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BYSX4283",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bysx4283"
+    },
+    {
+        "name": "Fidelity Sustainable Research Enhanced Japan Equity UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BNGFMX61",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bngfmx61"
+    },
+    {
+        "name": "Fidelity Sustainable Research Enhanced Pacific ex-Japan Equity UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BNGFMY78",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bngfmy78"
+    },
+    {
+        "name": "Fidelity Sustainable Research Enhanced Europe Equity UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BKSBGT50",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bksbgt50"
+    },
+    {
+        "name": "Fidelity Sustainable Research Enhanced US Equity UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BKSBGS44",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bksbgs44"
+    },
+    {
+        "name": "Fidelity US Quality Income ETF",
+        "ter": 0.3,
+        "number": "IE00BYV1Y969",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byv1y969"
+    },
+    {
+        "name": "Franklin Metaverse UCITS ETF",
+        "ter": 0.3,
+        "number": "IE000IM4K4K2",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000im4k4k2"
+    },
+    {
+        "name": "Franklin Euro Green Bond UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BHZRR253",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhzrr253"
+    },
+    {
+        "name": "BNP Paribas Easy - ECPI Global ESG Blue Economy",
+        "ter": 0.3,
+        "number": "LU2194447293",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2194447293"
+    },
+    {
+        "name": "BNP Paribas Easy ECPI Global ESG Infrastructure",
+        "ter": 0.3,
+        "number": "LU1291109293",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1291109293"
+    },
+    {
+        "name": "BNP Paribas Easy ESG Equity Value Europe",
+        "ter": 0.3,
+        "number": "LU1377382285",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1377382285"
+    },
+    {
+        "name": "Lyxor Index Fund - Lyxor Stoxx Europe 600 Banks UCITS ETF",
+        "ter": 0.3,
+        "number": "LU1834983477",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1834983477"
+    },
+    {
+        "name": "Lyxor Index Fund - Lyxor Stoxx Europe 600 Healthcare UCITS ETF",
+        "ter": 0.3,
+        "number": "LU1834986900",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1834986900"
+    },
+    {
+        "name": "SPDREURO STOXX Low Volatility UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BFTWP510",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bftwp510"
+    },
+    {
+        "name": "SPDR FTSE EPRA Europe ex UK Real Estate UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BSJCQV56",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bsjcqv56"
+    },
+    {
+        "name": "Lyxor Euro Stoxx Banks (Dr) Ucits ETF",
+        "ter": 0.3,
+        "number": "LU1829219390",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1829219390"
+    },
+    {
+        "name": "Lyxor Green Bond (DR) UCITS ETF",
+        "ter": 0.3,
+        "number": "LU1563454823",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1563454823"
+    },
+    {
+        "name": "Xtrackers MSCI Europe Small Cap UCITS ETF",
+        "ter": 0.3,
+        "number": "LU0322253906",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0322253906"
+    },
+    {
+        "name": "Xtrackers Russell 2000 UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BJZ2DD79",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjz2dd79"
+    },
+    {
+        "name": "Xtrackers S&P 500 Equal Weight UCITS ETF",
+        "ter": 0.3,
+        "number": "IE0002EI5AG0",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie0002ei5ag0"
+    },
+    {
+        "name": "HSBC MSCI China UCITS ETF",
+        "ter": 0.3,
+        "number": "IE0007P4PBU1",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie0007p4pbu1"
+    },
+    {
+        "name": "Invesco EQQQ NASDAQ-100 UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BFZXGZ54",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfzxgz54"
+    },
+    {
+        "name": "Invesco EURO STOXX Optimised Banks UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00B3Q19T94",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3q19t94"
+    },
+    {
+        "name": "Invesco Quantitative Strategies ESG Global Equity Multi-Factor UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BJQRDN15",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjqrdn15"
+    },
+    {
+        "name": "UBS (Irl) ETF plc - Factor MSCI USA Prime Value UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BWT3KL42",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bwt3kl42"
+    },
+    {
+        "name": "UBS (Irl) ETF plc - MSCI World UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BD4TXV59",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd4txv59"
+    },
+    {
+        "name": "VanEck J.P. Morgan EM Local Currency Bond UCITS ETF",
+        "ter": 0.3,
+        "number": "IE00BDS67326",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bds67326"
+    },
+    {
+        "name": "WisdomTree Eurozone Quality Dividend Growth UCITS ETF",
+        "ter": 0.29,
+        "number": "IE00BZ56TQ67",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bz56tq67"
+    },
+    {
+        "name": "WisdomTree US Equity Income UCITS ETF",
+        "ter": 0.29,
+        "number": "IE00BD6RZT93",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd6rzt93"
+    },
+    {
+        "name": "Lyxor MSCI China UCITS ETF",
+        "ter": 0.29,
+        "number": "LU1841731745",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1841731745"
+    },
+    {
+        "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF",
+        "ter": 0.29,
+        "number": "IE00BK5BR626",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk5br626"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  MSCI Switzerland IMI Socially Responsible UCITS ETF",
+        "ter": 0.28,
+        "number": "LU2250132763",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2250132763"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI USA",
+        "ter": 0.28,
+        "number": "LU1681042864",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681042864"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi S&P 500 UCITS ETF",
+        "ter": 0.28,
+        "number": "LU1681049109",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681049109"
+    },
+    {
+        "name": "iShares MSCI Brazil UCITS ETF (DE)",
+        "ter": 0.28,
+        "number": "DE000A0Q4R85",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/de000a0q4r85"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  MSCI Emerging Markets Socially Responsible UCITS ETF",
+        "ter": 0.27,
+        "number": "LU1048313974",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1048313974"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  MSCI Japan Socially Responsible UCITS ETF",
+        "ter": 0.27,
+        "number": "LU1273488715",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1273488715"
+    },
+    {
+        "name": "iShares $ High Yield Corp Bond ESG UCITS ETF",
+        "ter": 0.27,
+        "number": "IE00BMDFDY08",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmdfdy08"
+    },
+    {
+        "name": "iShares Edge MSCI Europe Minimum Volatility ESG UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BKVL7D31",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkvl7d31"
+    },
+    {
+        "name": "iShares Edge MSCI Europe Minimum Volatility UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00B86MWN23",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b86mwn23"
+    },
+    {
+        "name": "iShares Edge MSCI Europe Momentum Factor UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BQN1K786",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bqn1k786"
+    },
+    {
+        "name": "iShares Edge MSCI Europe Quality Factor UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BQN1K562",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bqn1k562"
+    },
+    {
+        "name": "iShares Edge MSCI Europe Size Factor UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BQN1KC32",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bqn1kc32"
+    },
+    {
+        "name": "iShares Edge MSCI Europe Value Factor UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BQN1K901",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bqn1k901"
+    },
+    {
+        "name": "iShares Edge S&P 500 Minimum Volatility UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BYX8XD24",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byx8xd24"
+    },
+    {
+        "name": "iShares MSCI EM SRI UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BYVJRP78",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byvjrp78"
+    },
+    {
+        "name": "iShares MSCI Japan SRI EUR Hedged UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BYVJRQ85",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byvjrq85"
+    },
+    {
+        "name": "iShares Refinitiv Inclusion and Diversity UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BD0B9B76",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd0b9b76"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - Europe Research Enhanced Index Equity (ESG) UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BF4G7183",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf4g7183"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - Global Research Enhanced Index Equity (ESG) UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BF4G6Y48",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf4g6y48"
+    },
+    {
+        "name": "SPDR MSCI Europe UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BKWQ0Q14",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkwq0q14"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  Bloomberg MSCI US Liquid Corporates Sustainable UCITS ETF",
+        "ter": 0.25,
+        "number": "LU1215461325",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1215461325"
+    },
+    {
+        "name": "Xtrackers ATX UCITS ETF",
+        "ter": 0.25,
+        "number": "LU0659579063",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0659579063"
+    },
+    {
+        "name": "Xtrackers MSCI Emerging Markets ESG UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BG370F43",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bg370f43"
+    },
+    {
+        "name": "Xtrackers MSCI World ESG UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BMY76136",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmy76136"
+    },
+    {
+        "name": "Xtrackers EUR Corporate Green Bond UCITS ETF",
+        "ter": 0.25,
+        "number": "IE000MCVFK47",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000mcvfk47"
+    },
+    {
+        "name": "Xtrackers II Global Government Bond UCITS ETF",
+        "ter": 0.25,
+        "number": "LU0378818131",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0378818131"
+    },
+    {
+        "name": "Xtrackers II Global Inflation-Linked Bond UCITS ETF",
+        "ter": 0.25,
+        "number": "LU0290357929",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0290357929"
+    },
+    {
+        "name": "Xtrackers MSCI AC World ESG Screened UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BGHQ0G80",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bghq0g80"
+    },
+    {
+        "name": "BNP Paribas Easy MSCI World SRI S-Series PAB 5% Capped",
+        "ter": 0.25,
+        "number": "LU1615092217",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1615092217"
+    },
+    {
+        "name": "Credit Suisse Index Fund (IE) ETF ICAV - CSIF (IE) MSCI World ESG Leaders Minimum Vol Bl UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BMDX0M10",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmdx0m10"
+    },
+    {
+        "name": "Fidelity US Quality Income ETF",
+        "ter": 0.25,
+        "number": "IE00BYXVGY31",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byxvgy31"
+    },
+    {
+        "name": "Franklin European Equity UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BFWXDW46",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfwxdw46"
+    },
+    {
+        "name": "Franklin U.S. Equity UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BF2B0P08",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf2b0p08"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi CAC 40",
+        "ter": 0.25,
+        "number": "LU1681046931",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681046931"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Index MSCI Emerging Markets SRI PAB",
+        "ter": 0.25,
+        "number": "LU1861138961",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1861138961"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI Nordic",
+        "ter": 0.25,
+        "number": "LU1681044647",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681044647"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI Switzerland",
+        "ter": 0.25,
+        "number": "LU1681044720",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681044720"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI World Climate Paris Aligned Pab",
+        "ter": 0.25,
+        "number": "LU2182388400",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2182388400"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi S&P Global Luxury",
+        "ter": 0.25,
+        "number": "LU1681048630",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681048630"
+    },
+    {
+        "name": "Amundi Index Solutions-Amundi MSCI EMU ESG Leaders Select",
+        "ter": 0.25,
+        "number": "LU1602144575",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1602144575"
+    },
+    {
+        "name": "Amundi MSCI World Climate Transition CTB",
+        "ter": 0.25,
+        "number": "LU1602144229",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1602144229"
+    },
+    {
+        "name": "BlackRock ESG Multi-Asset Conservative Portfolio UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BLP53M98",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blp53m98"
+    },
+    {
+        "name": "BlackRock ESG Multi-Asset Growth Portfolio UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BLLZQ805",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bllzq805"
+    },
+    {
+        "name": "BlackRock ESG Multi-Asset Moderate Portfolio UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BLLZQS08",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bllzqs08"
+    },
+    {
+        "name": "BNP Paribas Easy  High Yield SRI Fossil Free",
+        "ter": 0.25,
+        "number": "LU2244386053",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2244386053"
+    },
+    {
+        "name": "Lyxor US$ 10Y Inflation Expectations UCITS ETF",
+        "ter": 0.25,
+        "number": "LU1390062831",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1390062831"
+    },
+    {
+        "name": "Lyxor EUR 2-10Y Inflation Expectations UCITS ETF",
+        "ter": 0.25,
+        "number": "LU1390062245",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1390062245"
+    },
+    {
+        "name": "Lyxor Green Bond (DR) UCITS ETF",
+        "ter": 0.25,
+        "number": "LU1563454310",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1563454310"
+    },
+    {
+        "name": "Lyxor MSCI EM ESG Leaders Extra UCITS ETF",
+        "ter": 0.25,
+        "number": "LU1769088581",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1769088581"
+    },
+    {
+        "name": "Lyxor MSCI Europe (DR) UCITS ETF",
+        "ter": 0.25,
+        "number": "FR0010261198",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0010261198"
+    },
+    {
+        "name": "Xtrackers MSCI Pacific ex Japan ESG Screened UCITS ETF",
+        "ter": 0.25,
+        "number": "LU0322252338",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0322252338"
+    },
+    {
+        "name": "Xtrackers MSCI World Communication Services UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BM67HR47",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bm67hr47"
+    },
+    {
+        "name": "Xtrackers MSCI World Consumer Discretionary UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BM67HP23",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bm67hp23"
+    },
+    {
+        "name": "Xtrackers MSCI World Consumer Staples UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BM67HN09",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bm67hn09"
+    },
+    {
+        "name": "Xtrackers MSCI World Information Technology UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BM67HT60",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bm67ht60"
+    },
+    {
+        "name": "Xtrackers MSCI World Minimum Volatility UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BL25JN58",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bl25jn58"
+    },
+    {
+        "name": "Xtrackers MSCI World Energy UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BM67HM91",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bm67hm91"
+    },
+    {
+        "name": "Xtrackers MSCI World Financials UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BM67HL84",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bm67hl84"
+    },
+    {
+        "name": "Xtrackers MSCI World Health Care UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BM67HK77",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bm67hk77"
+    },
+    {
+        "name": "Xtrackers MSCI World Industrials UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BM67HV82",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bm67hv82"
+    },
+    {
+        "name": "Xtrackers MSCI World Materials UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BM67HS53",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bm67hs53"
+    },
+    {
+        "name": "Xtrackers MSCI World Momentum UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BL25JP72",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bl25jp72"
+    },
+    {
+        "name": "Xtrackers MSCI World Quality UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BL25JL35",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bl25jl35"
+    },
+    {
+        "name": "Xtrackers MSCI World Utilities UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BM67HQ30",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bm67hq30"
+    },
+    {
+        "name": "Xtrackers MSCI World Value UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BL25JM42",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bl25jm42"
+    },
+    {
+        "name": "HSBC MSCI AC Asia Pacific Ex Japan Climate Paris Aligned UCITS ETF",
+        "ter": 0.25,
+        "number": "IE000XFORJ80",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000xforj80"
+    },
+    {
+        "name": "HSBC Asia Pacific Ex Japan Sustainable Equity UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BKY58G26",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bky58g26"
+    },
+    {
+        "name": "Invesco NASDAQ Next Generation 100 UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BMD8KP97",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmd8kp97"
+    },
+    {
+        "name": "UBS (Irl) ETF plc - MSCI USA Select Factor Mix UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BDGV0415",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bdgv0415"
+    },
+    {
+        "name": "Vanguard LifeStrategy 20% Equity UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BMVB5K07",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmvb5k07"
+    },
+    {
+        "name": "Vanguard LifeStrategy 40% Equity UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BMVB5M21",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmvb5m21"
+    },
+    {
+        "name": "Vanguard LifeStrategy 60% Equity UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BMVB5P51",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmvb5p51"
+    },
+    {
+        "name": "Vanguard LifeStrategy 80% Equity UCITS ETF",
+        "ter": 0.25,
+        "number": "IE00BMVB5R75",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmvb5r75"
+    },
+    {
+        "name": "Vanguard ESG Emerging Markets All Cap UCITS ETF",
+        "ter": 0.2417,
+        "number": "IE000KPJJWM6",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000kpjjwm6"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Index FTSE EPRA NAREIT Global",
+        "ter": 0.24,
+        "number": "LU1437018838",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1437018838"
+    },
+    {
+        "name": "HSBC FTSE EPRA NAREIT Developed UCITS ETF",
+        "ter": 0.24,
+        "number": "IE000G6GSP88",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000g6gsp88"
+    },
+    {
+        "name": "Vanguard ESG Global All Cap UCITS ETF",
+        "ter": 0.24,
+        "number": "IE00BNG8L278",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bng8l278"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  Bloomberg US Liquid Corporates 1-5 Year UCITS ETF",
+        "ter": 0.23,
+        "number": "LU1048315243",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1048315243"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  Bloomberg US Liquid Corporates UCITS ETF",
+        "ter": 0.23,
+        "number": "LU1048317025",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1048317025"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  MSCI Europe Socially Responsible UCITS ETF",
+        "ter": 0.23,
+        "number": "LU2206598109",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2206598109"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI Europe Minimum Volatility Factor",
+        "ter": 0.23,
+        "number": "LU1681041627",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681041627"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI Europe Momentum Factor",
+        "ter": 0.23,
+        "number": "LU1681041460",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681041460"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI Europe Quality Factor",
+        "ter": 0.23,
+        "number": "LU1681041890",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681041890"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Nasdaq-100",
+        "ter": 0.23,
+        "number": "LU1681038243",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681038243"
+    },
+    {
+        "name": "UBS (Irl) ETF plc - UBS (Irl) ETF plc MSCI World Small Cap Socially Responsible UCITS ETF",
+        "ter": 0.23,
+        "number": "IE00BKSCBX74",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkscbx74"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  MSCI World Socially Responsible UCITS ETF",
+        "ter": 0.22,
+        "number": "LU0950674332",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0950674332"
+    },
+    {
+        "name": "UBS (Irl) ETF plc - MSCI World Socially Responsible UCITS ETF",
+        "ter": 0.22,
+        "number": "IE00BK72HJ67",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk72hj67"
+    },
+    {
+        "name": "Vanguard FTSE All-World UCITS ETF",
+        "ter": 0.22,
+        "number": "IE00BK5BQT80",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk5bqt80"
+    },
+    {
+        "name": "Vanguard FTSE Emerging Markets UCITS ETF",
+        "ter": 0.22,
+        "number": "IE00BK5BR733",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk5br733"
+    },
+    {
+        "name": "Xtrackers USD Corporate Bond SRI PAB UCITS ETF",
+        "ter": 0.21,
+        "number": "IE00BL58LL31",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bl58ll31"
+    },
+    {
+        "name": "UBS (Irl) ETF plc MSCI Emerging Markets Climate Paris Aligned UCITS ETF",
+        "ter": 0.21,
+        "number": "IE00BN4Q1675",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bn4q1675"
+    },
+    {
+        "name": "iShares Edge MSCI USA Minimum Volatility ESG UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BKVL7331",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkvl7331"
+    },
+    {
+        "name": "iShares Edge MSCI USA Momentum Factor UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BD1F4N50",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd1f4n50"
+    },
+    {
+        "name": "iShares Edge MSCI USA Quality Factor UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BD1F4L37",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd1f4l37"
+    },
+    {
+        "name": "iShares Edge MSCI USA Size Factor UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BD1F4K20",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd1f4k20"
+    },
+    {
+        "name": "iShares Edge MSCI USA Value Factor UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BD1F4M44",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd1f4m44"
+    },
+    {
+        "name": "iShares Edge S&P 500 Minimum Volatility UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B6SPMN59",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b6spmn59"
+    },
+    {
+        "name": "iShares Global Inflation Linked Govt Bond UCITS ETF USD (Acc)",
+        "ter": 0.2,
+        "number": "IE00B3B8PX14",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3b8px14"
+    },
+    {
+        "name": "iShares Global Inflation Linked Govt Bond UCITS ETF USD (Acc)",
+        "ter": 0.2,
+        "number": "IE00BKPT2S34",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkpt2s34"
+    },
+    {
+        "name": "iShares V PLC - iShares MSCI ACWI UCITS ETF USD (Acc)",
+        "ter": 0.2,
+        "number": "IE00B6R52259",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b6r52259"
+    },
+    {
+        "name": "iShares VII PLC - iShares MSCI EM Asia UCITS ETF USD (Acc)",
+        "ter": 0.2,
+        "number": "IE00B5L8K969",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5l8k969"
+    },
+    {
+        "name": "iShares MSCI Europe SRI UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B52VJ196",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b52vj196"
+    },
+    {
+        "name": "iShares MSCI Japan SRI UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BYX8XC17",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byx8xc17"
+    },
+    {
+        "name": "iShares MSCI USA SRI UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BYVJRR92",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byvjrr92"
+    },
+    {
+        "name": "iShares MSCI World ESG Enhanced UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BHZPJ569",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhzpj569"
+    },
+    {
+        "name": "iShares MSCI World ESG Screened UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BFNM3J75",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfnm3j75"
+    },
+    {
+        "name": "iShares MSCI World SRI UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BYX2JD69",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byx2jd69"
+    },
+    {
+        "name": "iShares V PLC - iShares S&P 500 EUR Hedged UCITS ETF (Acc)",
+        "ter": 0.2,
+        "number": "IE00B3ZW0K18",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3zw0k18"
+    },
+    {
+        "name": "iShares MSCI Pacific ex-Japan ESG Enhanced UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BMDBMK72",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmdbmk72"
+    },
+    {
+        "name": "JPM Global Equity Multi-Factor UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BJRCLL96",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjrcll96"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - US Research Enhanced Index Equity (ESG) UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BF4G7076",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf4g7076"
+    },
+    {
+        "name": "Lyxor Bund Daily (-2x) Inverse UCITS ETF",
+        "ter": 0.2,
+        "number": "FR0010869578",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0010869578"
+    },
+    {
+        "name": "Xtrackers MSCI Europe ESG UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BFMNHK08",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfmnhk08"
+    },
+    {
+        "name": "Xtrackers MSCI Japan ESG UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BG36TC12",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bg36tc12"
+    },
+    {
+        "name": "Xtrackers MSCI World ESG UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BZ02LR44",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bz02lr44"
+    },
+    {
+        "name": "Xtrackers II EUR Covered Bond Swap UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0820950128",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0820950128"
+    },
+    {
+        "name": "Xtrackers II EUR High Yield Corporate Bond UCITS ETF",
+        "ter": 0.2,
+        "number": "LU1109943388",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1109943388"
+    },
+    {
+        "name": "Xtrackers II Global Government Bond UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0908508731",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0908508731"
+    },
+    {
+        "name": "Xtrackers II Global Inflation-Linked Bond UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0908508814",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0908508814"
+    },
+    {
+        "name": "BNP Paribas Easy Stoxx Europe 600 UCITS ETF",
+        "ter": 0.2,
+        "number": "FR0011550193",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0011550193"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi BBB EURO Corporate Investment Grade ESG",
+        "ter": 0.2,
+        "number": "LU1681041387",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681041387"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Floating Rate USD Corporate ESG",
+        "ter": 0.2,
+        "number": "LU1681041031",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681041031"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI Eastern Europe Ex Russia",
+        "ter": 0.2,
+        "number": "LU1681043755",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681043755"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI Em Asia",
+        "ter": 0.2,
+        "number": "LU1681044480",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681044480"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI Em Latin America",
+        "ter": 0.2,
+        "number": "LU1681045024",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681045024"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI Emerging Markets",
+        "ter": 0.2,
+        "number": "LU1681045370",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681045370"
+    },
+    {
+        "name": "BNP Paribas Easy  Corp Bond SRI PAB",
+        "ter": 0.2,
+        "number": "LU1859444769",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1859444769"
+    },
+    {
+        "name": "SPDRFTSE UK All Share UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B7452L46",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b7452l46"
+    },
+    {
+        "name": "Lyxor Euro Government Green Bond (DR) UCITS ETF",
+        "ter": 0.2,
+        "number": "LU2356220926",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2356220926"
+    },
+    {
+        "name": "Lyxor Euro Stoxx 50 (DR) UCITS ETF",
+        "ter": 0.2,
+        "number": "FR0007054358",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0007054358"
+    },
+    {
+        "name": "Lyxor Index Fund - Lyxor Global Gender Equality (DR) UCITS ETF",
+        "ter": 0.2,
+        "number": "LU1691909508",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1691909508"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor MSCI Europe ESG Leaders (DR) UCITS ETF",
+        "ter": 0.2,
+        "number": "LU1940199711",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1940199711"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Utilities UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MTXK03",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mtxk03"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Automobiles & Parts UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5NLX835",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5nlx835"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Industrial Goods & Services UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MJYX09",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mjyx09"
+    },
+    {
+        "name": "iShares VII PLC - iShares Core MSCI Pacific ex-Japan UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B52MJY50",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b52mjy50"
+    },
+    {
+        "name": "iShares Core MSCI World UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B4L5Y983",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b4l5y983"
+    },
+    {
+        "name": "Xtrackers MSCI Europe Consumer Staples ESG Screened UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0292105359",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292105359"
+    },
+    {
+        "name": "Xtrackers MSCI Europe Communication Services ESG Screened UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0292104030",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292104030"
+    },
+    {
+        "name": "Xtrackers MSCI Europe Consumer Discretionary ESG Screened UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BNKF6C99",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bnkf6c99"
+    },
+    {
+        "name": "Xtrackers MSCI Europe Energy ESG Screened UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0292101796",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292101796"
+    },
+    {
+        "name": "Xtrackers MSCI Europe Financials ESG Screened UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0292103651",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292103651"
+    },
+    {
+        "name": "Xtrackers MSCI Europe Health Care ESG Screened UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0292103222",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292103222"
+    },
+    {
+        "name": "Xtrackers MSCI Europe Industrial ESG Screened UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0292106084",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292106084"
+    },
+    {
+        "name": "Xtrackers MSCI Europe Information Technology ESG Screened UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0292104469",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292104469"
+    },
+    {
+        "name": "XtrackersMSCI Europe Materials ESG Screened UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0292100806",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292100806"
+    },
+    {
+        "name": "Xtrackers MSCI Europe Utilities ESG Screened UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0292104899",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0292104899"
+    },
+    {
+        "name": "Xtrackers MSCI Japan UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0274209740",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0274209740"
+    },
+    {
+        "name": "Xtrackers NASDAQ 100 UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BMFKG444",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmfkg444"
+    },
+    {
+        "name": "Xtrackers S&P 500 Equal Weight UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BLNMYC90",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blnmyc90"
+    },
+    {
+        "name": "Xtrackers S&P 500 UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BM67HW99",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bm67hw99"
+    },
+    {
+        "name": "Xtrackers Stoxx Europe 600 UCITS ETF",
+        "ter": 0.2,
+        "number": "LU0328475792",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0328475792"
+    },
+    {
+        "name": "Invesco MSCI Europe ex-UK UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BYX5K108",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byx5k108"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Banks UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MTWD60",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mtwd60"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Basic Resources UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MTWY73",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mtwy73"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Chemicals UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MTY077",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mty077"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Construction & Materials UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MTY309",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mty309"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Financial Services UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MTYK77",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mtyk77"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Food & Beverage UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MTYL84",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mtyl84"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Health Care UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MJYY16",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mjyy16"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Insurance UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MTXJ97",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mtxj97"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Media UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MTZ488",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mtz488"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Oil & Gas UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MTWH09",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mtwh09"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Retail UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MTZM66",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mtzm66"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Technology UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MTWZ80",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mtwz80"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Telecommunications UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MJYB88",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mjyb88"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 Optimised Travel & Leisure UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00B5MJYC95",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5mjyc95"
+    },
+    {
+        "name": "Vanguard FTSE Japan UCITS ETF",
+        "ter": 0.2,
+        "number": "IE00BFMXYY33",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfmxyy33"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - Carbon Transition Global Equity (CTB) UCITS ETF",
+        "ter": 0.19,
+        "number": "IE000W95TAE6",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000w95tae6"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - EUR Corporate Bond 1-5 yr Research Enhanced Index (ESG) UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BF59RW70",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf59rw70"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - EUR Corporate Bond Research Enhanced Index (ESG) UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BF59RX87",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf59rx87"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - USD Corporate Bond Research Enhanced Index (ESG) UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BF59RV63",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bf59rv63"
+    },
+    {
+        "name": "UBS (Irl) ETF plc - UBS Climate Aware Global Developed Equity CTB UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BN4PXC48",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bn4pxc48"
+    },
+    {
+        "name": "Franklin FTSE Brazil UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BHZRQY00",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhzrqy00"
+    },
+    {
+        "name": "Franklin FTSE China UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BHZRR147",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhzrr147"
+    },
+    {
+        "name": "Franklin FTSE India UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BHZRQZ17",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhzrqz17"
+    },
+    {
+        "name": "Xtrackers MSCI World UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BJ0KDQ92",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bj0kdq92"
+    },
+    {
+        "name": "Invesco JPX-Nikkei 400 UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BPRCH686",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bprch686"
+    },
+    {
+        "name": "Invesco JPX-Nikkei 400 UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BVGC6645",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bvgc6645"
+    },
+    {
+        "name": "Invesco Markets II plc - Invesco MDAX UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BHJYDV33",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhjydv33"
+    },
+    {
+        "name": "Invesco MSCI Emerging Markets ESG Universal Screened UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BMDBMY19",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmdbmy19"
+    },
+    {
+        "name": "Invesco MSCI Emerging Markets UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00B3DWVS88",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3dwvs88"
+    },
+    {
+        "name": "Invesco MSCI Europe UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00B60SWY32",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b60swy32"
+    },
+    {
+        "name": "Invesco MSCI Japan UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00B60SX287",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b60sx287"
+    },
+    {
+        "name": "Invesco Markets II plc - Invesco MSCI Pacific Ex Japan ESG Universal Screened UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BMDBMT65",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmdbmt65"
+    },
+    {
+        "name": "Invesco MSCI World ESG Universal Screened UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BJQRDK83",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjqrdk83"
+    },
+    {
+        "name": "Invesco MSCI World UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00B60SX394",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b60sx394"
+    },
+    {
+        "name": "Invesco STOXX Europe 600 UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00B60SWW18",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b60sww18"
+    },
+    {
+        "name": "UBS (Irl) ETF plc - MSCI USA hedged to EUR UCITS ETF",
+        "ter": 0.19,
+        "number": "IE00BD4TYG73",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd4tyg73"
+    },
+    {
+        "name": "iShares MSCI EM ESG Enhanced UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BHZPJ239",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhzpj239"
+    },
+    {
+        "name": "iShares MSCI EM UCITS ETF USD (Acc)",
+        "ter": 0.18,
+        "number": "IE00B4L5YC18",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b4l5yc18"
+    },
+    {
+        "name": "iShares MSCI EM IMI ESG Screened UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BFNM3P36",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfnm3p36"
+    },
+    {
+        "name": "iShares MSCI Europe Consumer Staples Sector UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BMW42074",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmw42074"
+    },
+    {
+        "name": "iShares MSCI Europe Industrials Sector UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BMW42520",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmw42520"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - USD Ultra-Short Income UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BG8BCY43",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bg8bcy43"
+    },
+    {
+        "name": "SPDRMSCI Emerging Markets UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00B469F816",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b469f816"
+    },
+    {
+        "name": "SPDRMSCI EMU UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00B910VR50",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b910vr50"
+    },
+    {
+        "name": "SPDR MSCI Europe Communication Services UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKWQ0N82",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkwq0n82"
+    },
+    {
+        "name": "SPDR MSCI Europe Consumer Discretionary UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKWQ0C77",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkwq0c77"
+    },
+    {
+        "name": "SPDR MSCI Europe Consumer Staples UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKWQ0D84",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkwq0d84"
+    },
+    {
+        "name": "SPDR MSCI Europe Energy UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKWQ0F09",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkwq0f09"
+    },
+    {
+        "name": "SPDR MSCI Europe Financials UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKWQ0G16",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkwq0g16"
+    },
+    {
+        "name": "SPDR MSCI Europe Health Care UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKWQ0H23",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkwq0h23"
+    },
+    {
+        "name": "SPDR MSCI Europe Industrials UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKWQ0J47",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkwq0j47"
+    },
+    {
+        "name": "SPDR MSCI Europe Materials UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKWQ0L68",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkwq0l68"
+    },
+    {
+        "name": "SPDR MSCI Europe Technology UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKWQ0K51",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkwq0k51"
+    },
+    {
+        "name": "SPDR MSCI Europe Utilities UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKWQ0P07",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkwq0p07"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  MSCI Europe Socially Responsible UCITS ETF",
+        "ter": 0.18,
+        "number": "LU2206597804",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2206597804"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  Sustainable Development Bank Bonds UCITS ETF",
+        "ter": 0.18,
+        "number": "LU1852211215",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1852211215"
+    },
+    {
+        "name": "WisdomTree EUR Aggregate Bond ESG Enhanced Yield UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BD49RB39",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd49rb39"
+    },
+    {
+        "name": "Credit Suisse Index Fund (IE) ETF ICAV - CSIF (IE) MSCI USA Tech 125 ESG Universal Blue UCITS ETF",
+        "ter": 0.18,
+        "number": "IE000YKE1AQ5",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000yke1aq5"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Euro iStoxx Climate Paris Aligned Pab",
+        "ter": 0.18,
+        "number": "LU2182388582",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2182388582"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Index MSCI EMU SRI PAB",
+        "ter": 0.18,
+        "number": "LU2109787635",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2109787635"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI Europe Climate Paris Aligned Pab",
+        "ter": 0.18,
+        "number": "LU2182388319",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2182388319"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI Europe SRI PAB",
+        "ter": 0.18,
+        "number": "LU1861137484",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1861137484"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI USA SRI PAB",
+        "ter": 0.18,
+        "number": "LU1861136247",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1861136247"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Floating Rate EURO Corporate ESG",
+        "ter": 0.18,
+        "number": "LU1681041114",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681041114"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Floating Rate USD Corporate ESG",
+        "ter": 0.18,
+        "number": "LU1681040900",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681040900"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi JPX-Nikkei 400",
+        "ter": 0.18,
+        "number": "LU1681038912",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681038912"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi JPX-Nikkei 400",
+        "ter": 0.18,
+        "number": "LU1681039134",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681039134"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Index MSCI Japan SRI PAB",
+        "ter": 0.18,
+        "number": "LU2233156749",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2233156749"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI USA Minimum Volatility Factor",
+        "ter": 0.18,
+        "number": "LU1589349734",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1589349734"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Index MSCI World SRI PAB",
+        "ter": 0.18,
+        "number": "LU1861134382",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1861134382"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi STOXX Europe 600",
+        "ter": 0.18,
+        "number": "LU1681040223",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681040223"
+    },
+    {
+        "name": "Lyxor MSCI World ESG Leaders Extra (DR) UCITS ETF",
+        "ter": 0.18,
+        "number": "LU1792117779",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1792117779"
+    },
+    {
+        "name": "iShares $ Development Bank Bonds UCITS ETF (Acc)",
+        "ter": 0.18,
+        "number": "IE00BMCZLH06",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmczlh06"
+    },
+    {
+        "name": "iShares Core MSCI EM IMI UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKM4GZ66",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkm4gz66"
+    },
+    {
+        "name": "Xtrackers MSCI Emerging Markets UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BTJRMP35",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00btjrmp35"
+    },
+    {
+        "name": "HSBC Bloomberg Glabal Sustainable Aggregate 1-3 Year Bond UCITS ETF",
+        "ter": 0.18,
+        "number": "IE000XGNMWE1",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000xgnmwe1"
+    },
+    {
+        "name": "HSBC Bloomberg EUR Sustainable Corporate Bond UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKY81B71",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bky81b71"
+    },
+    {
+        "name": "HSBC Bloomberg USD Sustainable Corporate Bond UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKY81627",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bky81627"
+    },
+    {
+        "name": "HSBC Emerging Market Sustainable Equity UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BKY59G90",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bky59g90"
+    },
+    {
+        "name": "HSBC MSCI Japan Climate Paris Aligned UCITS ETF",
+        "ter": 0.18,
+        "number": "IE000UU299V4",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000uu299v4"
+    },
+    {
+        "name": "HSBC ETFs PLC - HSBC MSCI World Climate Paris Aligned UCITS ETF",
+        "ter": 0.18,
+        "number": "IE00BP2C1V62",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bp2c1v62"
+    },
+    {
+        "name": "HSBC MSCI Emerging Markets Climate Paris Aligned UCITS ETF",
+        "ter": 0.18,
+        "number": "IE000FNVOB27",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000fnvob27"
+    },
+    {
+        "name": "Vanguard ESG Developed Asia Pacific All Cap UCITS ETF",
+        "ter": 0.1725,
+        "number": "IE000GOJO2A3",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000gojo2a3"
+    },
+    {
+        "name": "SPDR MSCI Japan UCITS ETF",
+        "ter": 0.17,
+        "number": "IE00BZ0G8C04",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bz0g8c04"
+    },
+    {
+        "name": "Lyxor EuroMTS Highest Rated Macro-Weighted Govt Bond 1-3Y (DR) UCITS ETF",
+        "ter": 0.17,
+        "number": "LU1829219556",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1829219556"
+    },
+    {
+        "name": "Lyxor EuroMTS Highest Rated Macro-Weighted Govt Bond 3-5Y (DR) UCITS ETF",
+        "ter": 0.17,
+        "number": "LU1829219713",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1829219713"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 1-3Y (DR) UCITS ETF",
+        "ter": 0.17,
+        "number": "LU1650487413",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1650487413"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 10-15Y (DR) UCITS ETF",
+        "ter": 0.17,
+        "number": "LU1650489385",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1650489385"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 15+Y (DR) UCITS ETF",
+        "ter": 0.17,
+        "number": "LU1287023268",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1287023268"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 3-5Y (DR) UCITS ETF",
+        "ter": 0.17,
+        "number": "LU1650488494",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1650488494"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 5-7Y (DR) UCITS ETF",
+        "ter": 0.17,
+        "number": "LU1287023003",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1287023003"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 7-10Y (DR) UCITS ETF",
+        "ter": 0.17,
+        "number": "LU1287023185",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1287023185"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor EuroMTS Highest Rated Macro-Weighted Govt Bond (DR) UCITS ETF",
+        "ter": 0.17,
+        "number": "LU1287023342",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1287023342"
+    },
+    {
+        "name": "WisdomTree EUR Government Bond ESG Enhanced Yield UCITS ETF",
+        "ter": 0.16,
+        "number": "IE00BD49RK20",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd49rk20"
+    },
+    {
+        "name": "WisdomTree European Union Bond UCITS ETF",
+        "ter": 0.16,
+        "number": "IE00BMXWRM76",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmxwrm76"
+    },
+    {
+        "name": "Xtrackers USD Corporate Bond SRI PAB UCITS ETF",
+        "ter": 0.16,
+        "number": "IE00BL58LJ19",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bl58lj19"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Index Euro AGG SRI",
+        "ter": 0.16,
+        "number": "LU2182388236",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2182388236"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Index Euro Corporate SRI",
+        "ter": 0.16,
+        "number": "LU1681039647",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681039647"
+    },
+    {
+        "name": "iShares Core DAX UCITS ETF (DE)",
+        "ter": 0.16,
+        "number": "DE0005933931",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/de0005933931"
+    },
+    {
+        "name": "Invesco MSCI Europe ESG Universal Screened UCITS ETF",
+        "ter": 0.16,
+        "number": "IE00BJQRDL90",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjqrdl90"
+    },
+    {
+        "name": "iShares MSCI Japan ESG Enhanced UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BHZPJ452",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhzpj452"
+    },
+    {
+        "name": "iShares MSCI Japan ESG Screened UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BFNM3L97",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfnm3l97"
+    },
+    {
+        "name": "iShares V PLC - iShares S&P 500 Consumer Discretionary Sector UCITS ETF USD (Acc)",
+        "ter": 0.15,
+        "number": "IE00B4MCHD36",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b4mchd36"
+    },
+    {
+        "name": "iShares V PLC - iShares S&P 500 Consumer Staples Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00B40B8R38",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b40b8r38"
+    },
+    {
+        "name": "iShares V PLC - iShares S&P 500 Communication Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BDDRF478",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bddrf478"
+    },
+    {
+        "name": "iShares V PLC - iShares S&P 500 Energy Sector UCITS ETF USD (Acc)",
+        "ter": 0.15,
+        "number": "IE00B42NKQ00",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b42nkq00"
+    },
+    {
+        "name": "iShares V PLC - iShares S&P 500 Financials Sector UCITS ETF USD (Acc)",
+        "ter": 0.15,
+        "number": "IE00B4JNQZ49",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b4jnqz49"
+    },
+    {
+        "name": "iShares V PLC - iShares S&P 500 Health Care Sector UCITS ETF USD (Acc)",
+        "ter": 0.15,
+        "number": "IE00B43HR379",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b43hr379"
+    },
+    {
+        "name": "iShares V PLC - iShares S&P 500 Industrials Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00B4LN9N13",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b4ln9n13"
+    },
+    {
+        "name": "iShares V PLC - iShares S&P 500 Information Technology Sector UCITS ETF USD (Acc)",
+        "ter": 0.15,
+        "number": "IE00B3WJKG14",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3wjkg14"
+    },
+    {
+        "name": "iShares V PLC - iShares S&P 500 Materials Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00B4MKCJ84",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b4mkcj84"
+    },
+    {
+        "name": "iShares V PLC - iShares S&P 500 Utilities Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00B4KBBD01",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b4kbbd01"
+    },
+    {
+        "name": "SPDR S&P U.S. Consumer Discretionary Select Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BWBXM278",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bwbxm278"
+    },
+    {
+        "name": "SPDRS&PU.S. Consumer Staples Select Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BWBXM385",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bwbxm385"
+    },
+    {
+        "name": "SPDR S&P U.S. Energy Select Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BWBXM492",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bwbxm492"
+    },
+    {
+        "name": "SPDR S&P U.S. Financials Select Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BWBXM500",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bwbxm500"
+    },
+    {
+        "name": "SPDR S&P U.S. Health Care Select Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BWBXM617",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bwbxm617"
+    },
+    {
+        "name": "SPDR S&P U.S. Industrials Select Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BWBXM724",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bwbxm724"
+    },
+    {
+        "name": "SPDR S&P U.S. Materials Select Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BWBXM831",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bwbxm831"
+    },
+    {
+        "name": "SPDR S&P U.S. Technology Select Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BWBXM948",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bwbxm948"
+    },
+    {
+        "name": "SPDR S&P U.S. Utilities Select Sector UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BWBXMB69",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bwbxmb69"
+    },
+    {
+        "name": "UBS (Lux) Fund Solutions  J.P. Morgan Global Government ESG Liquid Bond UCITS ETF",
+        "ter": 0.15,
+        "number": "LU1974693662",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1974693662"
+    },
+    {
+        "name": "Xtrackers MSCI USA ESG UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BFMNPS42",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfmnps42"
+    },
+    {
+        "name": "Xtrackers II Eurozone Inflation-Linked Bond UCITS ETF",
+        "ter": 0.15,
+        "number": "LU0290358224",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0290358224"
+    },
+    {
+        "name": "Xtrackers II Eurozone Government Bond 1-3 UCITS ETF",
+        "ter": 0.15,
+        "number": "LU0290356871",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0290356871"
+    },
+    {
+        "name": "Xtrackers II Eurozone Government Bond 3-5 UCITS ETF",
+        "ter": 0.15,
+        "number": "LU0290356954",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0290356954"
+    },
+    {
+        "name": "Xtrackers II Eurozone Government Bond 5-7 UCITS ETF",
+        "ter": 0.15,
+        "number": "LU0290357176",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0290357176"
+    },
+    {
+        "name": "Xtrackers II Eurozone Government Bond UCITS ETF",
+        "ter": 0.15,
+        "number": "LU0290355717",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0290355717"
+    },
+    {
+        "name": "Xtrackers II Germany Government Bond UCITS ETF",
+        "ter": 0.15,
+        "number": "LU0643975161",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0643975161"
+    },
+    {
+        "name": "Xtrackers II ESG Global Aggregate Bond ETF",
+        "ter": 0.15,
+        "number": "LU0942970798",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0942970798"
+    },
+    {
+        "name": "Xtrackers II iBoxx Eurozone Government Bond Yield Plus UCITS ETF",
+        "ter": 0.15,
+        "number": "LU0524480265",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0524480265"
+    },
+    {
+        "name": "Xtrackers II iBoxx Eurozone Government Bond Yield Plus 1-3 UCITS ETF",
+        "ter": 0.15,
+        "number": "LU0925589839",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0925589839"
+    },
+    {
+        "name": "BNPP E MSCI Japan ESG Filtered Min TE",
+        "ter": 0.15,
+        "number": "LU1481203070",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1481203070"
+    },
+    {
+        "name": "BNP Paribas Easy S&P 500 UCITS ETF",
+        "ter": 0.15,
+        "number": "FR0011550185",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0011550185"
+    },
+    {
+        "name": "BNP Paribas Easy S&P 500 UCITS ETF",
+        "ter": 0.15,
+        "number": "FR0013041530",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0013041530"
+    },
+    {
+        "name": "Deka DAX UCITS ETF",
+        "ter": 0.15,
+        "number": "DE000ETFL011",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/de000etfl011"
+    },
+    {
+        "name": "Franklin STOXX Europe 600 Paris Aligned Climate UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BMDPBY65",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmdpby65"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI EMU ESG Universal Select",
+        "ter": 0.15,
+        "number": "LU2109786827",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2109786827"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi EURO STOXX 50",
+        "ter": 0.15,
+        "number": "LU1681047236",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681047236"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi MSCI Europe ESG Broad CTB",
+        "ter": 0.15,
+        "number": "LU1681042609",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681042609"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi S&P 500 Buyback",
+        "ter": 0.15,
+        "number": "LU1681048127",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681048127"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi S&P 500 UCITS ETF",
+        "ter": 0.15,
+        "number": "LU1681048804",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681048804"
+    },
+    {
+        "name": "BNP Paribas Easy JPM ESG EMU Government Bond IG 3-5Y",
+        "ter": 0.15,
+        "number": "LU2244387457",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2244387457"
+    },
+    {
+        "name": "MULTI UNITS LUXEMBOURGLyxor Euro Floating Rate Note UCITS ETF",
+        "ter": 0.15,
+        "number": "LU1829218319",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1829218319"
+    },
+    {
+        "name": "SPDR Bloomberg SASB Euro Corporate ESG UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BLF7VW10",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blf7vw10"
+    },
+    {
+        "name": "SPDR Bloomberg SASB U.S. Corporate ESG UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BLF7VX27",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blf7vx27"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor DAX (DR) UCITS ETF",
+        "ter": 0.15,
+        "number": "LU0252633754",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0252633754"
+    },
+    {
+        "name": "Lyxor Global Green Bond 1-10Y (DR) UCITS ETF - Acc",
+        "ter": 0.15,
+        "number": "LU1981859819",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1981859819"
+    },
+    {
+        "name": "Lyxor MSCI Emerging Markets Ex China UCITS ETF",
+        "ter": 0.15,
+        "number": "LU2009202107",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2009202107"
+    },
+    {
+        "name": "Lyxor MSCI USA ESG Leaders Extra (DR) UCITS ETF",
+        "ter": 0.15,
+        "number": "LU1792117696",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1792117696"
+    },
+    {
+        "name": "iShares VII PLC - iShares  Govt Bond 1-3yr UCITS ETF EUR (Acc)",
+        "ter": 0.15,
+        "number": "IE00B3VTMJ91",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3vtmj91"
+    },
+    {
+        "name": "iShares VII PLC - iShares  Govt Bond 3-7yr UCITS ETF EUR (Acc)",
+        "ter": 0.15,
+        "number": "IE00B3VTML14",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3vtml14"
+    },
+    {
+        "name": "iShares VII PLC - iShares  Govt Bond 7-10yr UCITS ETF EUR (Acc)",
+        "ter": 0.15,
+        "number": "IE00B3VTN290",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3vtn290"
+    },
+    {
+        "name": "iShares Core MSCI Japan IMI UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00B4L5YX21",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b4l5yx21"
+    },
+    {
+        "name": "Xtrackers MSCI Europe Value UCITS ETF",
+        "ter": 0.15,
+        "number": "LU0486851024",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0486851024"
+    },
+    {
+        "name": "Xtrackers MSCI USA Swap UCITS ETF",
+        "ter": 0.15,
+        "number": "LU0274210672",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0274210672"
+    },
+    {
+        "name": "Xtrackers S&P 500 Swap UCITS ETF",
+        "ter": 0.15,
+        "number": "LU0490618542",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0490618542"
+    },
+    {
+        "name": "HSBC MSCI World UCITS ETF",
+        "ter": 0.15,
+        "number": "IE000UQND7H4",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000uqnd7h4"
+    },
+    {
+        "name": "HSBC ETFs PLC - HSBC MSCI Europe Climate Paris Aligned UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BP2C0316",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bp2c0316"
+    },
+    {
+        "name": "UBS (Irl) ETF plc - S&P 500 ESG ELITE UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BLSN7P11",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00blsn7p11"
+    },
+    {
+        "name": "Vanguard Funds PLC - Vanguard ESG Global Corporate Bond UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BNDS1P30",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bnds1p30"
+    },
+    {
+        "name": "Vanguard FTSE Developed Asia Pacific ex Japan UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BK5BQZ41",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk5bqz41"
+    },
+    {
+        "name": "Vanguard FTSE Japan UCITS ETF",
+        "ter": 0.15,
+        "number": "IE00BFMXYX26",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfmxyx26"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Index US Corp SRI",
+        "ter": 0.14,
+        "number": "LU1806495575",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1806495575"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Index Euro Corporate SRI",
+        "ter": 0.14,
+        "number": "LU1437018168",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1437018168"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Govt Bond Euro Broad Investment Grade",
+        "ter": 0.14,
+        "number": "LU1681046261",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681046261"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Govt Bond Highest Rated Euro Investment Grade",
+        "ter": 0.14,
+        "number": "LU1681046691",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681046691"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Govt Bond Lowest Rated Euro Investment Grade",
+        "ter": 0.14,
+        "number": "LU1681046774",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1681046774"
+    },
+    {
+        "name": "Lyxor ESG Euro Corporate Bond Ex Financials (DR) UCITS ETF",
+        "ter": 0.14,
+        "number": "LU1829218822",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1829218822"
+    },
+    {
+        "name": "Lyxor ESG Euro Corporate Bond UCITS ETF",
+        "ter": 0.14,
+        "number": "LU1829219127",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1829219127"
+    },
+    {
+        "name": "MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond (DR) UCITS ETF",
+        "ter": 0.14,
+        "number": "LU1650490474",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1650490474"
+    },
+    {
+        "name": "Vanguard USD Corporate Bond UCITS ETF",
+        "ter": 0.14,
+        "number": "IE00BGYWFL94",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bgywfl94"
+    },
+    {
+        "name": "iShares MSCI EMU ESG Enhanced UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BHZPJ015",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhzpj015"
+    },
+    {
+        "name": "iShares MSCI EMU ESG Screened UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BFNM3B99",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfnm3b99"
+    },
+    {
+        "name": "iShares MSCI Europe ESG Enhanced UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BHZPJ783",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhzpj783"
+    },
+    {
+        "name": "iShares MSCI Europe ESG Screened UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BFNM3D14",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfnm3d14"
+    },
+    {
+        "name": "L&G US ESG Exclusions Paris Aligned UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BKLWY790",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bklwy790"
+    },
+    {
+        "name": "Lyxor Core MSCI Japan (DR) UCITS ETF",
+        "ter": 0.12,
+        "number": "LU1781541252",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1781541252"
+    },
+    {
+        "name": "Lyxor Core MSCI World (DR) UCITS ETF",
+        "ter": 0.12,
+        "number": "LU1781541179",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1781541179"
+    },
+    {
+        "name": "SPDR MSCI World UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BFY0GT14",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfy0gt14"
+    },
+    {
+        "name": "SPDR S&P 500 UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BYYW2V44",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byyw2v44"
+    },
+    {
+        "name": "SPDR STOXX Europe 600 SRI UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BK5H8015",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk5h8015"
+    },
+    {
+        "name": "Xtrackers II EUR Corporate Bond UCITS ETF",
+        "ter": 0.12,
+        "number": "LU0478205379",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0478205379"
+    },
+    {
+        "name": "Credit Suisse Index Fund (IE) ETF ICAV - CSIF (IE) DAX 50 ESG Blue UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BKVD2J03",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bkvd2j03"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi Index Euro Corporate Sri 0-3 Y",
+        "ter": 0.12,
+        "number": "LU2037748774",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2037748774"
+    },
+    {
+        "name": "Amundi Index Solutions - Amundi S&P 500 ESG",
+        "ter": 0.12,
+        "number": "LU1437017863",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1437017863"
+    },
+    {
+        "name": "Lyxor MSCI EM Asia Ucits ETF",
+        "ter": 0.12,
+        "number": "LU1781541849",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1781541849"
+    },
+    {
+        "name": "Lyxor MSCI EMU ESG Broad CTB (DR) - UCITS ETF",
+        "ter": 0.12,
+        "number": "LU0908501058",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0908501058"
+    },
+    {
+        "name": "iShares $ TIPS UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BDZVH966",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bdzvh966"
+    },
+    {
+        "name": "iShares VII PLC -iShares Core MSCI EMU UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00B53QG562",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b53qg562"
+    },
+    {
+        "name": "iShares Core MSCI Europe UCITS ETF EUR (Acc)",
+        "ter": 0.12,
+        "number": "IE00B4K48X80",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b4k48x80"
+    },
+    {
+        "name": "iShares DAX ESG UCITS ETF (DE)",
+        "ter": 0.12,
+        "number": "DE000A0Q4R69",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/de000a0q4r69"
+    },
+    {
+        "name": "Xtrackers MSCI Europe ESG Screened UCITS ETF",
+        "ter": 0.12,
+        "number": "LU0322253732",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0322253732"
+    },
+    {
+        "name": "Xtrackers MSCI Europe UCITS ETF",
+        "ter": 0.12,
+        "number": "LU0274209237",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0274209237"
+    },
+    {
+        "name": "Xtrackers MSCI USA UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BG04M077",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bg04m077"
+    },
+    {
+        "name": "HSBC ETFs PLC - HSBC MSCI USA Climate Paris Aligned UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BP2C1S34",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bp2c1s34"
+    },
+    {
+        "name": "HSBC USA Sustainable Equity UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BKY40J65",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bky40j65"
+    },
+    {
+        "name": "UBS (Irl) ETF plc - S&P 500 ESG UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BHXMHL11",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhxmhl11"
+    },
+    {
+        "name": "Vanguard ESG Developed Europe All Cap UCITS ETF",
+        "ter": 0.12,
+        "number": "IE000QUOSE01",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000quose01"
+    },
+    {
+        "name": "Vanguard ESG North America All Cap UCITS ETF",
+        "ter": 0.12,
+        "number": "IE000O58J820",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000o58j820"
+    },
+    {
+        "name": "Vanguard FTSE Developed World UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BK5BQV03",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk5bqv03"
+    },
+    {
+        "name": "Vanguard USD Treasury Bond UCITS ETF",
+        "ter": 0.12,
+        "number": "IE00BMX0B631",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmx0b631"
+    },
+    {
+        "name": "iShares Global Aggregate Bond ESG UCITS ETF",
+        "ter": 0.1,
+        "number": "IE000APK27S2",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000apk27s2"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - BetaBuilders EUR Govt Bond 1-3 yr UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00BYVZV757",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00byvzv757"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV BetaBuilders EUR Govt Bond UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00BJK9HD13",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjk9hd13"
+    },
+    {
+        "name": "L&G Asia Pacific ex Japan Equity UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00BFXR5W90",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfxr5w90"
+    },
+    {
+        "name": "L&G Global Equity UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00BFXR5S54",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfxr5s54"
+    },
+    {
+        "name": "L&G Japan Equity UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00BFXR5T61",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfxr5t61"
+    },
+    {
+        "name": "SPDR S&P 500 ESG Leaders UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00BH4GPZ28",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bh4gpz28"
+    },
+    {
+        "name": "Xtrackers II EUR Overnight Rate Swap UCITS ETF",
+        "ter": 0.1,
+        "number": "LU0290358497",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0290358497"
+    },
+    {
+        "name": "Amundi ETF DAX UCITS ETF DR",
+        "ter": 0.1,
+        "number": "FR0010655712",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0010655712"
+    },
+    {
+        "name": "SPDR Bloomberg 1-3 Month T-Bill UCITS ETF Acc",
+        "ter": 0.1,
+        "number": "IE00BJXRT698",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjxrt698"
+    },
+    {
+        "name": "Lyxor Euro Overnight Return UCITS ETF",
+        "ter": 0.1,
+        "number": "FR0010510800",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/fr0010510800"
+    },
+    {
+        "name": "iShares $ TIPS UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00B1FZSC47",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b1fzsc47"
+    },
+    {
+        "name": "iShares $ Treasury Bond 1-3yr UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00BDFK1573",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bdfk1573"
+    },
+    {
+        "name": "iShares VII PLC - iShares Core EURO STOXX 50 UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00B53L3W79",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b53l3w79"
+    },
+    {
+        "name": "iShares Core Global Aggregate Bond UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00BDBRDM35",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bdbrdm35"
+    },
+    {
+        "name": "Vanguard FTSE Developed Europe ex UK UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00BK5BQY34",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk5bqy34"
+    },
+    {
+        "name": "Vanguard FTSE Developed Europe UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00BK5BQX27",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk5bqx27"
+    },
+    {
+        "name": "Vanguard FTSE North America UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00BK5BQW10",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bk5bqw10"
+    },
+    {
+        "name": "Vanguard Global Aggregate Bond UCITS ETF",
+        "ter": 0.1,
+        "number": "IE00BG47KH54",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bg47kh54"
+    },
+    {
+        "name": "Xtrackers DAX UCITS ETF",
+        "ter": 0.09,
+        "number": "LU0274211480",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0274211480"
+    },
+    {
+        "name": "Xtrackers Euro Stoxx 50 UCITS ETF",
+        "ter": 0.09,
+        "number": "LU0380865021",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0380865021"
+    },
+    {
+        "name": "Xtrackers FTSE 100 UCITS ETF",
+        "ter": 0.09,
+        "number": "LU0838780707",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0838780707"
+    },
+    {
+        "name": "Franklin FTSE Korea UCITS ETF",
+        "ter": 0.09,
+        "number": "IE00BHZRR030",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhzrr030"
+    },
+    {
+        "name": "Lyxor Core Euro Government Inflation-Linked Bond (DR) UCITS ETF",
+        "ter": 0.09,
+        "number": "LU1650491282",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1650491282"
+    },
+    {
+        "name": "iShares  Govt Bond Climate UCITS ETF",
+        "ter": 0.09,
+        "number": "IE00BLDGH553",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bldgh553"
+    },
+    {
+        "name": "iShares  Inflation Linked Govt Bond UCITS ETF",
+        "ter": 0.09,
+        "number": "IE00B0M62X26",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b0m62x26"
+    },
+    {
+        "name": "HSBC S&P 500 UCITS ETF",
+        "ter": 0.09,
+        "number": "IE000JZ473P7",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000jz473p7"
+    },
+    {
+        "name": "Invesco MSCI USA ESG Universal Screened UCITS ETF",
+        "ter": 0.09,
+        "number": "IE00BJQRDM08",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjqrdm08"
+    },
+    {
+        "name": "Invesco S&P 500 ESG UCITS ETF",
+        "ter": 0.09,
+        "number": "IE00BKS7L097",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bks7l097"
+    },
+    {
+        "name": "Vanguard EUR Corporate Bond UCITS ETF",
+        "ter": 0.09,
+        "number": "IE00BGYWT403",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bgywt403"
+    },
+    {
+        "name": "Vanguard USD Corporate Bond UCITS ETF",
+        "ter": 0.09,
+        "number": "IE00BGYWFK87",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bgywfk87"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - EUR Ultra-Short Income UCITS ETF",
+        "ter": 0.08,
+        "number": "IE00BD9MMF62",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd9mmf62"
+    },
+    {
+        "name": "Amundi Index Solutions Amundi Euro Corp 0-1Y ESG",
+        "ter": 0.08,
+        "number": "LU2300294316",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2300294316"
+    },
+    {
+        "name": "iShares VII PLC - iShares Core FTSE 100 UCITS ETF",
+        "ter": 0.07,
+        "number": "IE00B53HP851",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b53hp851"
+    },
+    {
+        "name": "iShares MSCI USA ESG Enhanced UCITS ETF",
+        "ter": 0.07,
+        "number": "IE00BHZPJ908",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bhzpj908"
+    },
+    {
+        "name": "iShares MSCI USA ESG Screened UCITS ETF",
+        "ter": 0.07,
+        "number": "IE00BFNM3G45",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfnm3g45"
+    },
+    {
+        "name": "iShares VII PLC - iShares MSCI USA UCITS ETF USD (Acc)",
+        "ter": 0.07,
+        "number": "IE00B52SFT06",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b52sft06"
+    },
+    {
+        "name": "iShares S&P 500 Swap UCITS ETF",
+        "ter": 0.07,
+        "number": "IE00BMTX1Y45",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmtx1y45"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV BetaBuilders US Treasury Bond UCITS ETF",
+        "ter": 0.07,
+        "number": "IE00BJK9HH50",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjk9hh50"
+    },
+    {
+        "name": "JPM BetaBuilders US Treasury Bond 0-1 yr UCITS ETF",
+        "ter": 0.07,
+        "number": "IE00BJK3WF00",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjk3wf00"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - BetaBuilders US Treasury Bond 1-3 yr UCITS ETF",
+        "ter": 0.07,
+        "number": "IE00BD9MMD49",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bd9mmd49"
+    },
+    {
+        "name": "Lyxor Index Fund - Lyxor Core STOXX Europe 600 (DR)",
+        "ter": 0.07,
+        "number": "LU0908500753",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0908500753"
+    },
+    {
+        "name": "Franklin S&P 500 Paris Aligned Climate UCITS ETF",
+        "ter": 0.07,
+        "number": "IE00BMDPBZ72",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bmdpbz72"
+    },
+    {
+        "name": "Lyxor Net Zero 2050 S&P 500 Climate PAB (DR) UCITS ETF - Acc",
+        "ter": 0.07,
+        "number": "LU2198883410",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu2198883410"
+    },
+    {
+        "name": "Lyxor Index Fund - Lyxor Euro Government Bond 25+Y (DR) UCITS ETF",
+        "ter": 0.07,
+        "number": "LU1686832194",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu1686832194"
+    },
+    {
+        "name": "Lyxor Index Fund - Lyxor Euro Stoxx 50 (DR)",
+        "ter": 0.07,
+        "number": "LU0908501215",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/lu0908501215"
+    },
+    {
+        "name": "iShares VII PLC - iShares $ Treasury Bond 1-3yr UCITS ETF USD (Acc)",
+        "ter": 0.07,
+        "number": "IE00B3VWN179",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3vwn179"
+    },
+    {
+        "name": "iShares VII PLC - iShares VII PLC - iShares $ Treasury Bond 3-7yr UCITS ETF",
+        "ter": 0.07,
+        "number": "IE00B3VWN393",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3vwn393"
+    },
+    {
+        "name": "iShares VII PLC - iShares $ Treasury Bond 7-10yr UCITS ETF USD (Acc)",
+        "ter": 0.07,
+        "number": "IE00B3VWN518",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3vwn518"
+    },
+    {
+        "name": "iShares VII PLC - iShares Core S&P 500 UCITS ETF",
+        "ter": 0.07,
+        "number": "IE00B5BMR087",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b5bmr087"
+    },
+    {
+        "name": "Xtrackers MSCI USA UCITS ETF",
+        "ter": 0.07,
+        "number": "IE00BJ0KDR00",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bj0kdr00"
+    },
+    {
+        "name": "Vanguard EUR Eurozone Government Bond UCITS ETF",
+        "ter": 0.07,
+        "number": "IE00BH04GL39",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bh04gl39"
+    },
+    {
+        "name": "Vanguard S&P 500 UCITS ETF",
+        "ter": 0.07,
+        "number": "IE00BFMXXD54",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bfmxxd54"
+    },
+    {
+        "name": "Xtrackers S&P 500 UCITS ETF",
+        "ter": 0.06,
+        "number": "IE000Z9SJA06",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000z9sja06"
+    },
+    {
+        "name": "JPMorgan ETFs (Ireland) ICAV - BetaBuilders US Equity UCITS ETF",
+        "ter": 0.05,
+        "number": "IE00BJK9H753",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00bjk9h753"
+    },
+    {
+        "name": "HSBC EURO STOXX 50 UCITS ETF",
+        "ter": 0.05,
+        "number": "IE000MWUQBJ0",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie000mwuqbj0"
+    },
+    {
+        "name": "Invesco EURO STOXX 50 UCITS ETF",
+        "ter": 0.05,
+        "number": "IE00B60SWX25",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b60swx25"
+    },
+    {
+        "name": "Invesco MSCI USA UCITS ETF",
+        "ter": 0.05,
+        "number": "IE00B60SX170",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b60sx170"
+    },
+    {
+        "name": "Invesco S&P 500 UCITS ETF",
+        "ter": 0.05,
+        "number": "IE00B3YCGJ38",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00b3ycgj38"
+    },
+    {
+        "name": "Invesco S&P 500 UCITS ETF",
+        "ter": 0.05,
+        "number": "IE00BRKWGL70",
+        "isDistributing": false,
+        "link": "https://www.finanzfluss.de/informer/etf/ie00brkwgl70"
+    }
+]
