@@ -44,7 +44,7 @@ except:
         
 #check if isin.json exists
 try:
-    with open('isin.json') as json_file:
+    with open('isin.json', 'r') as json_file:
         allisin = json.load(json_file)
 except:
     allisin = []
