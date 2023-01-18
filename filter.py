@@ -15,11 +15,61 @@ var1 = tk.IntVar()
 var2 = tk.IntVar()
 var3 = tk.IntVar()
 var4 = tk.IntVar()
+var5 = tk.IntVar()
+var6 = tk.IntVar()
 
 c1 = tk.Checkbutton(root, text="Daten mit keinem TER entfernen", variable=var1)
 c2 = tk.Checkbutton(root, text="Ausschüttend", variable=var2)
 c3 = tk.Checkbutton(root, text="keine Sparkosten", variable=var3)
 c4 = tk.Checkbutton(root, text="Thesaurierend", variable=var4)
+
+#textfield for filtering, words separated by comma, enternen1, enternen2 as hint
+e1 = tk.Entry(root, width=100)
+
+#checkbutton to activate the textfield, default is not active
+def check():
+    if var6.get() == 1:
+        e1.config(state='normal')
+    else:
+        e1.config(state='disabled')
+
+#add a clear button for the textfield
+def clear1():
+    e1.delete(0, tk.END)
+
+
+b1 = tk.Button(root, text='clear entfernen', command=clear1)
+b1.pack(side=tk.RIGHT)
+
+
+e2 = tk.Entry(root, width=100)
+
+#checkbutton to activate the textfield, default is not active
+def check():
+    if var5.get() == 1:
+        e2.config(state='normal')
+    else:
+        e2.config(state='disabled')
+
+c5 = tk.Checkbutton(root, text="Name x muss enthalten sein:", variable=var5, command=check)
+c5.pack()
+e2.pack()
+
+
+
+#add a clear button for the textfield
+def clear2():
+    e2.delete(0, tk.END)
+
+#button next to the textfield
+b2 = tk.Button(root, text='clear muss', command=clear2)
+b2.pack(side=tk.RIGHT)
+
+
+c6 = tk.Checkbutton(root, text="Name x darf nicht enthalten sein:", variable=var6, command=check)
+c6.pack()
+e1.pack()
+
 
 c1.pack()
 c2.pack()
@@ -47,6 +97,20 @@ def filter():
             data = [x for x in data if x['sparkosten'] != 'ja']
         if var4.get() == 1:
             data = [x for x in data if x['isDistributing'] == False]
+        if e1.get() != '' and var6.get() == 1:
+            names = e1.get().split(',')
+            #remove all where name is part of a word in the list (both lower and upper case)
+            data = [x for x in data if not any(name.lower() in x['name'].lower() for name in names)]
+
+
+        if e2.get() != '' and var5.get() == 1:
+            names = e2.get().split(',')
+            #remove all where name is not part of a word in the list, both lower and upper case
+            data = [x for x in data if any(name.lower() in x['name'].lower() for name in names)]
+
+        
+        #remove all where 
+
     visualize()
 
 #visualize filtered data as a table
@@ -67,10 +131,6 @@ def visualize():
     for x in data:
         table.insert("", tk.END, values=(x['name'], x['sparkosten'], x['ter'], x['number']))
 
-    # Scrollbar
-    vsb = ttk.Scrollbar(root, orient="vertical", command=table.yview)
-    vsb.pack(side=tk.RIGHT, fill='y')
-    table.configure(yscrollcommand=vsb.set)
 
     #make table sortable by clicking on the header, ter is sorted by number
     table.heading(1, text="Name", command=lambda: sortby(table, 1, False))
