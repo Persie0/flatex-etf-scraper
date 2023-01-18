@@ -38,5 +38,9 @@ with open('everything.json') as json_file:
     for entry in data:
         if entry['number'] in allisin:
             entry['sparkosten'] = "keine"
-    with open('everything.json', 'w') as f:
+    for entry in data:
+        # check if sparkosten is not set
+        if 'sparkosten' not in entry or entry['sparkosten'] == "":
+            entry['sparkosten'] = "ja"
+    with open('everything_sparkosten.json', 'w') as f:
         json.dump(data, f)
