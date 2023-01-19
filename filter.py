@@ -1,7 +1,7 @@
 import json
 import tkinter as tk
 from tkinter import ttk
-
+import webbrowser
 
 data=None
 #create ui for filtering
@@ -116,20 +116,30 @@ def filter():
 #visualize filtered data as a table
 def visualize():
     # Table with max height and width
-    table = ttk.Treeview(root, columns=(1,2,3,4), show="headings",  height="30", selectmode="browse")
+    table = ttk.Treeview(root, columns=(1,2,3,4,5), show="headings",  height="30", selectmode="browse")
     table.column(1, width=600, minwidth=500)
-    table.column(2, width=200, minwidth=200)
-    table.column(3, width=200, minwidth=200)
-    table.column(4, width=300, minwidth=200)
+    table.column(2, width=50, minwidth=50)
+    table.column(3, width=50, minwidth=50)
+    table.column(4, width=100, minwidth=100)
+    table.column(5, width=200, minwidth=200)
     table.pack()
 
     table.heading(1, text="Name")
     table.heading(2, text="Sparkosten")
     table.heading(3, text="TER")
     table.heading(4, text="ISIN")
+    table.heading(5, text="Link")
+
+    #insert the link as a link that opens in the browser
+    def callback(event):
+        webbrowser.open_new(event.widget.item(event.widget.selection())['values'][4])
+
+    table.bind('<ButtonRelease-1>', callback)
+
+    #insert data into table
 
     for x in data:
-        table.insert("", tk.END, values=(x['name'], x['sparkosten'], x['ter'], x['number']))
+        table.insert("", tk.END, values=(x['name'], x['sparkosten'], x['ter'], x['number'], x['link']))
 
 
     #make table sortable by clicking on the header, ter is sorted by number
